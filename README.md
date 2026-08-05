@@ -1,11 +1,19 @@
 <div align="center">
-  <a href="https://github.com/davidyehuda45-byte/davidyehuda45-byte/blob/main/MARIO.md">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=WELCOME+TO+MY+PROFILE!;CODING,+COFFEE,+AND+LO-FI...;BUILDING+SOMETHING+COOL!;&v=2" alt="Typing SVG" />
+
+  <!-- Typing SVG -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=WELCOME+TO+MY+PROFILE!;CODING,+COFFEE,+AND+LO-FI...;BUILDING+SOMETHING+COOL!;&v=3" alt="Typing SVG" />
   </a>
+
   <br/><br/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3VnenllMTl1ZGU3bmM1eXN2a2VlYTk4b2h3dTZ6ajZhOGw0NDU0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRzRfGVALsK8elDDAB/giphy.gif" width="220px" alt="Anime Chill Aesthetic" />
+
+  <!-- Banner GIF Full Width Kiri-Kanan -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-8223730e-fc64-4f07-8880-e83713912953.gif" width="100%" alt="Header Banner" />
+
   <br/><br/>
+
   <p><i>"Quiet minds, loud code. Turning coffee into working algorithms."</i></p>
+
 </div>
 
 ---
