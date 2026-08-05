@@ -8,10 +8,8 @@
 
   <br/><br/>
 
-  <!-- Sprite Animasi Pixel Mario Running (CDN Alternatif Stabil) -->
-  <a href="https://github.com/davidyehuda45-byte">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220px" alt="Pixel Mario Running" />
-  </a>
+  <!-- Memanggil GIF Lokal dari folder assets -->
+  <img src="[./assets/mario.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3VnenllMTl1ZGU3bmM1eXN2a2VlYTk4b2h3dTZ6ajZhOGw0NDU0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRzRfGVALsK8elDDAB/giphy.gif)" width="200px" alt="Pixel Mario Running" />
 
   <br/><br/>
 
