@@ -1,18 +1,15 @@
 <div align="center">
 
-  <!-- Typing SVG Multi-Color & Font Bigger -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&multiColor=true&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+GITHUB+PROFILE!;MY+NAME+IS+DAVID+YEHUDA+SURBAKTI;SOFTWARE+ENGINEERING+STUDENT;AT+SMK+BAGIMU+NEGERIKU;I+LOVE+CODING+AND+ASTRONOMY;FOLLOW+MY+INSTAGRAM+@D4.PITTT_;&v=6" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Anime GIF Full Width -->
   <img src="https://i.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3VnenllMTl1ZGU3bmM1eXN2a2VlYTk4b2h3dTZ6ajZhOGw0NDU0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRzRfGVALsK8elDDAB/giphy.gif" width="100%" style="max-height: 280px; object-fit: cover;" alt="Anime Banner" />
 
   <br/><br/>
 
-  <!-- Social Media Badges -->
   <a href="https://instagram.com/d4.pittt_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -24,9 +21,6 @@
   </a>
 
   <br/><br/>
-
-  <!-- Quote Bahasa Indonesia -->
-  <p><i>"Menyusun baris kode dengan presisi, layaknya mengamati keindahan alam dan ruang angkasa."</i></p>
 
 </div>
 
