@@ -5,7 +5,7 @@
 
 ---
 
-### 📝 Tentang Saya
+### Tentang Saya
 Saya adalah siswa SMK yang sedang mengembangkan kemampuan di bidang web development, mobile development, dan pemrograman.
 
 Saat ini saya banyak menggunakan:
@@ -21,7 +21,7 @@ Saya juga tertarik menggabungkan pemrograman, desain antarmuka, dan eksperimen v
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Web Development**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
@@ -44,7 +44,7 @@ Saya juga tertarik menggabungkan pemrograman, desain antarmuka, dan eksperimen v
 
 ---
 
-### 📊 GitHub Statistics
+### GitHub Statistics
 <div align="center">
   <!-- Alternatif Stats Card Anti-Break -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidyehuda45-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -57,7 +57,7 @@ Saya juga tertarik menggabungkan pemrograman, desain antarmuka, dan eksperimen v
 
 ---
 
-### 📈 Aktivitas GitHub
+### Aktivitas GitHub
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidyehuda45-byte&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
