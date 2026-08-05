@@ -2,13 +2,13 @@
 
   <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=WELCOME+TO+MY+PROFILE!;CODING,+COFFEE,+AND+LO-FI...;BUILDING+SOMETHING+COOL!;&v=3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=WELCOME+TO+MY+PROFILE!;CODING,+COFFEE,+AND+LO-FI...;BUILDING+SOMETHING+COOL!;&v=4" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Banner GIF Full Width Kiri-Kanan -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-8223730e-fc64-4f07-8880-e83713912953.gif" width="100%" alt="Header Banner" />
+  <!-- Anime GIF Full Width -->
+  <img src="https://i.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3VnenllMTl1ZGU3bmM1eXN2a2VlYTk4b2h3dTZ6ajZhOGw0NDU0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRzRfGVALsK8elDDAB/giphy.gif" width="100%" style="max-height: 260px; object-fit: cover;" alt="Anime Chill Aesthetic" />
 
   <br/><br/>
 
