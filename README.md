@@ -11,6 +11,32 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3VnenllMTl1ZGU3bmM1eXN2a2VlYTk4b2h3dTZ6ajZhOGw0NDU0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRzRfGVALsK8elDDAB/giphy.gif" width="100%" style="max-height: 260px; object-fit: cover;" alt="Anime Chill Aesthetic" />
 
   <br/><br/>
+  
+  <p align="center">
+  <a href="https://instagram.com/d4.pittt_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
+<div align="center">
+  <a href="https://spotify.com">
+    <img src="https://spotify-github-profile-5215.vercel.app/api/spotify" alt="Spotify Currently Playing" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://spotify.com">
+    <img src="https://spotify-github-profile-5215.vercel.app/api/spotify" alt="Spotify Currently Playing" />
+  </a>
+</div>
+
 
   <p><i>"I LOVE Coding + Gaming + Astronomy + Sunset + Moon."</i></p>
 
