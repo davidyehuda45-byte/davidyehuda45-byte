@@ -46,13 +46,13 @@ Saya juga tertarik menggabungkan pemrograman, desain antarmuka, dan eksperimen v
 
 ### 📊 GitHub Statistics
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=davidyehuda45-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- Alternatif Stats Card Anti-Break -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidyehuda45-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   
-  <br/>
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidyehuda45-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br/><br/>
+
+  <!-- Top Languages Card Alternatif -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidyehuda45-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -64,37 +64,19 @@ Saya juga tertarik menggabungkan pemrograman, desain antarmuka, dan eksperimen v
 
 ---
 
-### 💻 Proyek
-| Proyek | Teknologi | Fokus |
-| :--- | :--- | :--- |
-| **Web Application** | Laravel, PHP | MVC, CRUD, Database |
-| **Mobile Application** | Flutter, Dart | Aplikasi Android |
-| **Interactive Website** | HTML, CSS, JavaScript | UI & Interaksi |
-| **Programming Projects**| C++ | Logika & Algoritma |
-
----
-
-### 🚀 Fokus Pengembangan
-* **Laravel**
-* **Flutter**
-* **JavaScript**
-* **C++**
-
----
-
-<!-- SECTION ANIMASI PIXEL MARIO (DITAROH DI PALING BAWAH) -->
+<!-- ANIMASI PIXEL MARIO (DITAROH DI PALING BAWAH) -->
 <br/>
 <div align="center">
   
   <!-- Animasi Typing Text Vintage Pixel -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=THANK+YOU+FOR+VISITING!;MARIO+IS+BUILDING+NEXT+FEATURE...;GAME+OVER?+NO,+KEEP+CODING!;" alt="Mario Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=THANK+YOU+FOR+VISITING!;MARIO+IS+BUILDING+NEXT+FEATURE...;GAME+OVER?+NO,+KEEP+CODING!;" alt="Mario Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- Animasi Pixel Mario Running -->
-  <img src="https://media.giphy.com/media/13fS2A9q33C99i/giphy.gif" width="180px" alt="Pixel Mario Running" />
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/mario-running.gif" width="180px" alt="Pixel Mario Running" />
 
   <br/>
   
