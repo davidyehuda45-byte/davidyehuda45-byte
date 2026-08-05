@@ -19,14 +19,9 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=david75bekasi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://open.spotify.com">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <a href="https://wa.me/6289510766727" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-
-  <br/><br/>
-
-  <!-- Quote Bahasa Indonesia -->
-  <p><i>"Menyusun baris kode dengan presisi, layaknya mengamati keindahan alam dan ruang angkasa."</i></p>
 
 </div>
 
