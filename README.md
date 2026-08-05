@@ -1,19 +1,18 @@
-Markdown
-# MARIO HEADER
-<!-- BANNER MARIO DARI FILE MARIO.md -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/mario-running.gif" width="180px" alt="Pixel Mario Running" />
-  <br/>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE!;MARIO+IS+BUILDING+NEXT+FEATURE...;GAME+OVER%3F+NO%2C+KEEP+CODING!;" alt="Mario Typing SVG" />
+  <a href="https://github.com/davidyehuda45-byte/davidyehuda45-byte/blob/main/MARIO.md">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=WELCOME+TO+MY+PROFILE!;CODING,+COFFEE,+AND+LO-FI...;BUILDING+SOMETHING+COOL!;&v=2" alt="Typing SVG" />
   </a>
+  <br/><br/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3VnenllMTl1ZGU3bmM1eXN2a2VlYTk4b2h3dTZ6ajZhOGw0NDU0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRzRfGVALsK8elDDAB/giphy.gif" width="220px" alt="Anime Chill Aesthetic" />
+  <br/><br/>
+  <p><i>"Quiet minds, loud code. Turning coffee into working algorithms."</i></p>
 </div>
 
-<hr/>
+---
 
 # David Yehuda Surbakti
 
-### Web Developer • Laravel • Flutter • Creative Coding
+### Web Developer - Laravel - Flutter - Creative Coding
 > Membangun website dan aplikasi dengan fokus pada tampilan yang bersih, fungsional, dan nyaman digunakan.
 
 ---
@@ -59,12 +58,8 @@ Saya juga tertarik menggabungkan pemrograman, desain antarmuka, dan eksperimen v
 
 ### GitHub Statistics
 <div align="center">
-  <!-- Alternatif Stats Card Anti-Break -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=davidyehuda45-byte&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  
   <br/><br/>
-
-  <!-- Top Languages Card Alternatif -->
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidyehuda45-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
@@ -77,22 +72,18 @@ Saya juga tertarik menggabungkan pemrograman, desain antarmuka, dan eksperimen v
 
 ---
 
-<!-- ANIMASI PIXEL MARIO (DITAROH DI PALING BAWAH) -->
-<br/>
-<div align="center">
-  
-  <!-- Animasi Typing Text Vintage Pixel -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=THANK+YOU+FOR+VISITING!;MARIO+IS+BUILDING+NEXT+FEATURE...;GAME+OVER?+NO,+KEEP+CODING!;" alt="Mario Typing SVG" />
-  </a>
+### Proyek
+| Proyek | Teknologi | Fokus |
+| :--- | :--- | :--- |
+| **Web Application** | Laravel, PHP | MVC, CRUD, Database |
+| **Mobile Application** | Flutter, Dart | Aplikasi Android |
+| **Interactive Website** | HTML, CSS, JavaScript | UI & Interaksi |
+| **Programming Projects**| C++ | Logika & Algoritma |
 
-  <br/><br/>
+---
 
-  <!-- Animasi Pixel Mario Running -->
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/mario-running.gif" width="180px" alt="Pixel Mario Running" />
-
-  <br/>
-  
-  <p><i>"It's-a me, Developer! Always jumping over bugs and running towards clean code."</i></p>
-
-</div>
+### Fokus Pengembangan
+* **Laravel**
+* **Flutter**
+* **JavaScript**
+* **C++**
