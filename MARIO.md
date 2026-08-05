@@ -8,8 +8,8 @@
 
   <br/><br/>
 
-  <!-- Memanggil GIF Lokal dari folder assets -->
-  <img src="[./assets/mario.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3VnenllMTl1ZGU3bmM1eXN2a2VlYTk4b2h3dTZ6ajZhOGw0NDU0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRzRfGVALsK8elDDAB/giphy.gif)" width="200px" alt="Pixel Mario Running" />
+  <!-- Mario Pixel GIF via Giphy Direct CDN -->
+  <img src="https://i.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3VnenllMTl1ZGU3bmM1eXN2a2VlYTk4b2h3dTZ6ajZhOGw0NDU0ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRzRfGVALsK8elDDAB/giphy.gif" width="220px" alt="Pixel Mario Running" />
 
   <br/><br/>
 
