@@ -1,3 +1,16 @@
+Markdown
+# MARIO HEADER
+<!-- BANNER MARIO DARI FILE MARIO.md -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/mario-running.gif" width="180px" alt="Pixel Mario Running" />
+  <br/>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=WELCOME+TO+MY+PROFILE!;MARIO+IS+BUILDING+NEXT+FEATURE...;GAME+OVER%3F+NO%2C+KEEP+CODING!;" alt="Mario Typing SVG" />
+  </a>
+</div>
+
+<hr/>
+
 # David Yehuda Surbakti
 
 ### Web Developer • Laravel • Flutter • Creative Coding
