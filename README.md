@@ -46,6 +46,15 @@ Saat ini saya fokus mendalami:
 
 ---
 
+### Minat & Identitas
+| Kategori | Ketertarikan & Hobi | Badge Terkait |
+| :--- | :--- | :--- |
+| **Astronomi** | Observasi objek langit, tata surya, dan eksplorasi ruang angkasa | ![Astronomy](https://img.shields.io/badge/Astronomy-0B3D91?style=flat-square&logo=nasa&logoColor=white) |
+| **Fotografi** | Fotografi alam, tanaman, sunset, dan astrofotografi | ![Astrophotography](https://img.shields.io/badge/Astrophotography-111111?style=flat-square&logo=aperture&logoColor=white) |
+| **Gaming** | Bermain game dan eksplorasi dunia virtual | ![Gaming](https://img.shields.io/badge/Gaming-9146FF?style=flat-square&logo=twitch&logoColor=white) |
+
+---
+
 ### Tech Stack
 
 **Web Development**  
