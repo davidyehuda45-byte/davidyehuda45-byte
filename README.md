@@ -19,18 +19,14 @@
   <a href="mailto:davidyehuda45@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="https://open.spotify.com">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
 
   <br/><br/>
 
   <!-- Quote Bahasa Indonesia -->
   <p><i>"Menyusun baris kode dengan presisi, layaknya mengamati keindahan alam dan ruang angkasa."</i></p>
-
-  <br/>
-
-  <!-- Spotify Currently Playing Widget (Stabil) -->
-  <a href="https://spotify.com">
-    <img src="https://novathena-spotify-github-profile.vercel.app/api/spotify" alt="Spotify Currently Playing" />
-  </a>
 
 </div>
 
