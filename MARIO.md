@@ -8,9 +8,9 @@
 
   <br/><br/>
 
-  <!-- Sprite Animasi Pixel Mario Running -->
+  <!-- Sprite Animasi Pixel Mario Running (CDN Alternatif Stabil) -->
   <a href="https://github.com/davidyehuda45-byte">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/mario-running.gif" width="200px" alt="Pixel Mario Running" />
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220px" alt="Pixel Mario Running" />
   </a>
 
   <br/><br/>
