@@ -12,7 +12,7 @@
 
   <br/><br/>
 
-  <p><i>"Quiet minds, loud code. Turning coffee into working algorithms."</i></p>
+  <p><i>"I LOVE Coding + Gaming + Astronomy + Sunset + Moon."</i></p>
 
 </div>
 
