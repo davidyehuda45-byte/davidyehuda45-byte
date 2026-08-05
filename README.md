@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Typing SVG -->
+  <!-- Typing SVG Multi-Color & Font Bigger -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=WELCOME+TO+MY+PROFILE!;CODING,+COFFEE,+AND+LO-FI...;BUILDING+SOMETHING+COOL!;&v=4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&multiColor=true&center=true&vCenter=true&width=700&lines=WELCOME+TO+MY+GITHUB+PROFILE!;MY+NAME+IS+DAVID+YEHUDA+SURBAKTI;SOFTWARE+ENGINEERING+STUDENT;AT+SMK+BAGIMU+NEGERIKU;I+LOVE+CODING+AND+ASTRONOMY;FOLLOW+MY+INSTAGRAM+@D4.PITTT_;&v=6" alt="Typing SVG" />
   </a>
 
   <br/><br/>
