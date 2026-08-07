@@ -48,7 +48,7 @@
 ### **Interactive Pacman Contribution Game**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/pacman-contribution-grid.svg" alt="Pacman Contribution Game" width="100%" />
+  <img src="https://github.com/davidyehuda45-byte/davidyehuda45-byte/blob/output/pacman-contribution-grid.svg?raw=true" alt="Pacman Contribution Game" width="100%" />
 </div>
 
 ---
