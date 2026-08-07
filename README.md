@@ -45,6 +45,14 @@
 
 ---
 
+### **GitHub Achievements & Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=davidyehuda45-byte&theme=dracula&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%" />
+</div>
+
+---
+
 ### **Technology Stack & Tooling Grid**
 
 <div align="center">
