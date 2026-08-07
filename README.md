@@ -45,6 +45,14 @@
 
 ---
 
+### **Interactive Pacman Contribution Game**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/pacman-contribution-grid.svg" alt="Pacman Contribution Game" width="100%" />
+</div>
+
+---
+
 ### **Technology Stack & Tooling Grid**
 
 <div align="center">
