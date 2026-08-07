@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=220&section=header&text=DAVID%20YEHUDA%20SURBAKTI&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Game+%26+Interactive+Dev;System+Architect" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Backend+%26+Systems+Architect;Cloud+Native+Engineer" alt="Typing Animation" />
 
   <p align="center">
     <a href="https://linkedin.com">
@@ -24,5 +24,5 @@
 
 ```text
 ┌────────────────────────────────────────────────────────────────────────┐
-│ [ONLINE] System Architecture, High-Performance Web & Game Engineering │
+│ [ONLINE] System Architecture, High-Performance Web & Cloud Engineering │
 └────────────────────────────────────────────────────────────────────────┘
