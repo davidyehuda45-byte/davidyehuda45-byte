@@ -104,8 +104,8 @@
 ### **System Analytics & Metrics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidyehuda45-byte&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidyehuda45-byte&layout=compact&theme=dracula&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=davidyehuda45-byte&show_icons=true&theme=dracula&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davidyehuda45-byte&layout=compact&theme=dracula&hide_border=true" width="48%" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidyehuda45-byte&theme=dracula&hide_border=true" width="97%" />
 </div>
