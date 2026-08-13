@@ -102,17 +102,11 @@
 ### **System Analytics & Metrics**
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=davidyehuda45-byte&show_icons=true&theme=dracula&count_private=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidyehuda45-byte&layout=compact&theme=dracula&hide_border=true" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidyehuda45-byte&theme=dracula" width="100%" />
 </p>
 <p align="center">
-  <a href="https://github.com/ashutosh0071/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidyehuda45-byte&theme=dracula&hide_border=true" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidyehuda45-byte&theme=dracula" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidyehuda45-byte&theme=dracula" width="48%" />
 </p>
 
 ---
