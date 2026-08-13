@@ -1,4 +1,4 @@
-name: Generate Pacman Contribution Game
+name: Generate 3D Contribution Graph
 
 on:
   schedule:
@@ -8,9 +8,9 @@ on:
     branches:
       - main
 
-# concurrency:
-#   group: ${{ github.workflow }}-${{ github.ref }}
-#   cancel-in-progress: true
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -23,32 +23,21 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Generate Pacman Contribution Assets
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/pacman-contribution-grid.svg?palette=pacman
-            dist/pacman-contribution-grid-dark.svg?palette=pacman&color_snake=orange&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-            dist/pacman-contribution-grid.gif?palette=pacman
+      - name: Generate 3D Isometric Calendar
+        uses: yoshi38610/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Verify Generated Assets
-        run: |
-          ls -la dist/
+          USERNAME: ${{ github.repository_owner }}
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: profile-3d-contrib
           keep_history: false
           committer: GitHub Actions <actions@github.com>
           author: GitHub Actions <actions@github.com>
-          commit_message: "build: auto update pacman contribution grid [skip ci]"
+          commit_message: "build: auto update 3d contribution graph [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
