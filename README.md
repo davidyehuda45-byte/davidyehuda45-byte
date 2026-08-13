@@ -45,13 +45,13 @@
 
 ---
 
-### **Interactive Pacman Contribution Game**
+### **3D Contribution Calendar**
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/pacman-contribution-grid-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/pacman-contribution-grid.svg">
-    <img alt="Pacman Contribution Game" src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/pacman-contribution-grid.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/profile-night-green.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/profile-green-animate.svg">
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/profile-green-animate.svg" width="100%">
   </picture>
 </div>
 
