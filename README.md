@@ -98,16 +98,14 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph Snake" width="100%" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/galaga-contribution-graph-dark.svg" alt="Galaga Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidyehuda45-byte&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
