@@ -98,15 +98,21 @@
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Graph Snake" width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidyehuda45-byte&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="100%" />
-</p>
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
+</picture>
 
 ---
 
