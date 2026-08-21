@@ -86,17 +86,19 @@
 
 <br><br>
 
+<!-- Pacman & Space Invaders Arcade Contribution Graphs -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/pacman.svg" alt="Pacman Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/space-invaders.svg" alt="Space Invaders Contribution Graph" />
 </p>
 
 <br><br>
 
-<div align="center">
-  <img
-    src="https://count.getloli.com/@DavidYehudaSurbakti?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"
-    alt="Profile View"
-  />
-</div>
+<!-- Clean Minimalist Visitor Counter Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=davidyehuda45-byte&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+</p>
 
 </div>
