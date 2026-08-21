@@ -62,21 +62,21 @@
     <br>PowerShell
   </td>
   <td align="center" width="96">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="48" height="48" alt="CMD" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="CMD" />
     <br>CMD
   </td>
   <td align="center" width="96">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chatgpt/chatgpt-original.svg" width="48" height="48" alt="ChatGPT" />
+    <img src="https://skillicons.dev/icons?i=chatgpt" width="48" height="48" alt="ChatGPT" />
     <br>ChatGPT
   </td>
 </tr>
 <tr>
   <td align="center" width="96">
-    <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a611345.svg" width="48" height="48" alt="Gemini" />
+    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" />
     <br>Gemini
   </td>
   <td align="center" width="96">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/deepseek.svg" width="48" height="48" alt="DeepSeek" />
+    <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="48" height="48" alt="DeepSeek" />
     <br>DeepSeek
   </td>
   <td colspan="5"></td>
