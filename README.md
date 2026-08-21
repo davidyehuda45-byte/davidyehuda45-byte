@@ -3,12 +3,20 @@
 # ⚡ DAVID YEHUDA SURBAKTI ⚡
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Mobile,+Web,+%26+AI+Developer" height="70" />
+  A passionate Full-Stack Engineer specializing in Mobile, Web, & AI Development.
 </p>
 
-<br><br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Mobile,+Web,+%26+AI+Developer;Building+Scalable+Applications;Transforming+Ideas+into+Clean+Code" alt="Typing SVG" />
+</p>
 
-<div style="display: flex; align-items: flex-start; justify-content: center">
+</div>
+
+<br>
+
+## ⚡ Tech Stack & Tools
+
+<div align="center">
 <table align="center">
 <tr>
   <td align="center" width="96">
@@ -84,18 +92,32 @@
 </table>
 </div>
 
+<br>
+
+> "Great software starts with curiosity and never stops improving."
+
+---
+
+## 📈 GitHub Statistics
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg" width="100%">
+</picture>
+
 <br><br>
 
-<!-- Arcade Contribution Game (Sesuai Commit Kamu) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/main/github-contribution-grid-snake.svg" alt="Game Contribution Graph" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
+</picture>
 
-<br><br>
+---
 
-<!-- Clean Minimalist Visitor Counter Badge -->
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=davidyehuda45-byte&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
-</p>
-
+  <br><br>
+  ⭐ Thanks for visiting my profile!
 </div>
