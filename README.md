@@ -66,13 +66,13 @@
     <br>CMD
   </td>
   <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/openai/ffffff" width="48" height="48" alt="ChatGPT" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chatgpt/chatgpt-original.svg" width="48" height="48" alt="ChatGPT" />
     <br>ChatGPT
   </td>
 </tr>
 <tr>
   <td align="center" width="96">
-    <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Gemini" />
+    <img src="https://raw.githubusercontent.com/file-icons/source/master/svg/Gemini.svg" width="48" height="48" alt="Gemini" />
     <br>Gemini
   </td>
   <td align="center" width="96">
