@@ -73,21 +73,21 @@
     <br>PowerShell
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cmd" width="48" height="48" alt="CMD" />
+    <img src="https://api.iconify.design/vscode-icons:folder-type-command.svg" width="48" height="48" alt="CMD" />
     <br>CMD
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=chatgpt" width="48" height="48" alt="ChatGPT" />
+    <img src="https://api.iconify.design/logos:openai-icon.svg" width="48" height="48" alt="ChatGPT" />
     <br>ChatGPT
   </td>
 </tr>
 <tr>
   <td align="center" width="96">
-    <img src="https://img.icons8.com/fluency/48/google-gemini.png" width="48" height="48" alt="Gemini" />
+    <img src="https://api.iconify.design/logos:google-gemini.svg" width="48" height="48" alt="Gemini" />
     <br>Gemini
   </td>
   <td align="center" width="96">
-    <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="48" height="48" alt="DeepSeek" />
+    <img src="https://api.iconify.design/simple-icons:deepseek.svg?color=%234d6bfe" width="48" height="48" alt="DeepSeek" />
     <br>DeepSeek
   </td>
   <td colspan="5"></td>
