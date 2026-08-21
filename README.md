@@ -1,16 +1,5 @@
 <div align="center">
 
-<style>
-  .tech-stack-table img {
-    transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
-  }
-  
-  .tech-stack-table td:hover img {
-    transform: scale(1.15);
-    filter: drop-shadow(0 0 10px rgba(88, 166, 255, 0.8));
-  }
-</style>
-
 # ⚡ DAVID YEHUDA SURBAKTI ⚡
 
 <p align="center">
@@ -20,7 +9,7 @@
 <br><br>
 
 <div style="display: flex; align-items: flex-start; justify-content: center">
-<table align="center" class="tech-stack-table">
+<table align="center">
 <tr>
   <td align="center" width="96">
     <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -73,21 +62,21 @@
     <br>PowerShell
   </td>
   <td align="center" width="96">
-    <img src="https://api.iconify.design/vscode-icons:folder-type-command.svg" width="48" height="48" alt="CMD" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" width="48" height="48" alt="CMD" />
     <br>CMD
   </td>
   <td align="center" width="96">
-    <img src="https://api.iconify.design/logos:openai-icon.svg" width="48" height="48" alt="ChatGPT" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chatgpt/chatgpt-original.svg" width="48" height="48" alt="ChatGPT" />
     <br>ChatGPT
   </td>
 </tr>
 <tr>
   <td align="center" width="96">
-    <img src="https://api.iconify.design/logos:google-gemini.svg" width="48" height="48" alt="Gemini" />
+    <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a611345.svg" width="48" height="48" alt="Gemini" />
     <br>Gemini
   </td>
   <td align="center" width="96">
-    <img src="https://api.iconify.design/simple-icons:deepseek.svg?color=%234d6bfe" width="48" height="48" alt="DeepSeek" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/deepseek.svg" width="48" height="48" alt="DeepSeek" />
     <br>DeepSeek
   </td>
   <td colspan="5"></td>
