@@ -1,132 +1,87 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=200&section=header&text=DAVID%20YEHUDA%20SURBAKTI&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%" />
+# ⚡ DAVID YEHUDA SURBAKTI ⚡
 
-  <br />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Mobile+%26+Web+Developer" height="70" />
+</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=00F2FE&center=true&vcenter=true&width=800&lines=Full+Stack+Developer;Laravel+%26+PHP+Specialist;Flutter+%26+Dart+Mobile+Engineer;System+%26+Algorithm+Architect" alt="Typing Animation" />
+<br><br>
 
-  <br />
-
-  <p align="center">
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:davidyehuda45@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/davidyehuda45-byte"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  </p>
-
-</div>
-
----
-
-### **System Architecture Overview**
-
+<div style="display: flex; align-items: flex-start; justify-content: center">
 <table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Core Engineering Focus</h4>
-      <ul>
-        <li>Developing backend API systems with PHP, Laravel, and MySQL</li>
-        <li>Building cross-platform mobile applications using Flutter and Dart</li>
-        <li>Creating dynamic web user interfaces with JavaScript and Blade</li>
-        <li>Designing core algorithms and object-oriented logic using C++</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>System Status</h4>
-      <ul>
-        <li><b>Primary Language:</b> PHP (35.18%)</li>
-        <li><b>Mobile Stack:</b> Dart (25.28%) & Flutter</li>
-        <li><b>Web Stack:</b> JavaScript (24.52%) & Blade (9.23%)</li>
-        <li><b>Low-Level Engine:</b> C++ (5.78%)</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+    <br>HTML5
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+    <br>CSS3
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+    <br>Tailwind
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+    <br>Bootstrap
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+    <br>JavaScript
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+    <br>React
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+    <br>Flutter
+  </td>
+</tr>
+<tr>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+    <br>Dart
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+    <br>C++
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+    <br>PHP
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+    <br>MySQL
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
+    <br>PowerShell
+  </td>
+  <td align="center" width="96">
+    <img src="https://skillicons.dev/icons?i=cmd" width="48" height="48" alt="CMD" />
+    <br>CMD
+  </td>
+</tr>
 </table>
-
----
-
-### **3D Contribution Calendar**
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/profile-night-green.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/profile-green-animate.svg">
-    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/profile-green-animate.svg" width="100%">
-  </picture>
 </div>
 
----
-
-### **Technology Stack & Tooling Grid**
-
-<div align="center">
-
-#### **Languages & Core**
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-#### **Frameworks & Mobile**
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-#### **Backend, Database & Infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-</div>
-
----
-
-### **Contribution Activity Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davidyehuda45-byte&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
----
-
-### **System Analytics & Metrics**
+<br><br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=davidyehuda45-byte&theme=dracula" width="100%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=davidyehuda45-byte&theme=dracula" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davidyehuda45-byte&theme=dracula" width="48%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
----
-
-### **Featured Engineering Projects**
-
-| Repository | Focus Area | Technology Stack | Architecture Status |
-| :--- | :--- | :--- | :---: |
-| **laravel-web-app** | Web Backend & CMS | PHP, Laravel, MySQL, Blade | Active |
-| **flutter-mobile-app** | Cross-Platform Mobile | Dart, Flutter, REST API | Production |
-| **cpp-algorithm-core** | Data Structures & System | C++17, Algorithms | Maintained |
-
----
+<br><br>
 
 <div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=davidyehuda45-byte&color=00f2fe&style=flat-square&label=PROFILE+VIEWS" />
-
-  <br /><br />
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,10,30,50&height=80&section=footer" width="100%" />
+  <img
+    src="https://count.getloli.com/@DavidYehudaSurbakti?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"
+    alt="Profile View"
+  />
+</div>
 
 </div>
