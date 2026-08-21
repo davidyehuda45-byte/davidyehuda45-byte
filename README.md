@@ -62,7 +62,7 @@
     <br>PowerShell
   </td>
   <td align="center" width="96">
-    <img src="https://api.iconify.design/fluent-mdl2:command-prompt.svg?color=%23ffffff" width="48" height="48" alt="CMD" />
+    <img src="https://api.iconify.design/lucide:terminal.svg?color=%23ffffff" width="48" height="48" alt="CMD" />
     <br>CMD
   </td>
   <td align="center" width="96">
