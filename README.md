@@ -86,12 +86,9 @@
 
 <br><br>
 
-<!-- Pacman & Space Invaders Arcade Contribution Graphs -->
+<!-- Arcade Contribution Game (Sesuai Commit Kamu) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/pacman.svg" alt="Pacman Contribution Graph" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/output/space-invaders.svg" alt="Space Invaders Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/davidyehuda45-byte/davidyehuda45-byte/main/github-contribution-grid-snake.svg" alt="Game Contribution Graph" />
 </p>
 
 <br><br>
