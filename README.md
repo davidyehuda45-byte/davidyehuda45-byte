@@ -66,7 +66,7 @@
     <br>CMD
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=chatgpt" width="48" height="48" alt="ChatGPT" />
+    <img src="https://cdn.simpleicons.org/openai/ffffff" width="48" height="48" alt="ChatGPT" />
     <br>ChatGPT
   </td>
 </tr>
