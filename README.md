@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ KAEN BLAZE ⚡
+# ⚡ David Yehuda Surbakti ⚡
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+AI+%26+SaSS+Engineer;LLM+%26+RAG+Expert" height="70" />
