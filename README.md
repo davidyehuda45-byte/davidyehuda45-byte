@@ -20,7 +20,7 @@
     <br>TensorFlow
   </td>
   <td align="center" width="96">
-    <img src="https://skillicons.dev" width="48" height="48" alt="Solidity" />
+    <img src="https://skillicons.dev" width="48" height="48" alt="Solidty" />
     <br>Solidity
   </td>
   <td align="center" width="96">
