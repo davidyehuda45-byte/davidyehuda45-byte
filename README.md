@@ -1,123 +1,103 @@
-<div align="center">
-
-# ⚡ DAVID YEHUDA SURBAKTI ⚡
-
-<p align="center">
-  A passionate Full-Stack Engineer specializing in Mobile, Web, & AI Development.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Mobile,+Web,+%26+AI+Developer;Building+Scalable+Applications;Transforming+Ideas+into+Clean+Code" alt="Typing SVG" />
-</p>
-
-</div>
-
-<br>
-
 ## ⚡ Tech Stack & Tools
 
 <div align="center">
+
 <table align="center">
 <tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-    <br>HTML5
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-    <br>CSS3
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
-    <br>Tailwind
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-    <br>Bootstrap
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-    <br>JavaScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-    <br>React
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-    <br>Flutter
-  </td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5" />
+<br><b>HTML5</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3" />
+<br><b>CSS3</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind CSS" />
+<br><b>Tailwind</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
+<br><b>Bootstrap</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript" />
+<br><b>JavaScript</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="55" height="55" alt="React" />
+<br><b>React</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" alt="Flutter" />
+<br><b>Flutter</b>
+</td>
+
 </tr>
+
 <tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-    <br>Dart
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
-    <br>C++
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-    <br>PHP
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-    <br>MySQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=powershell" width="48" height="48" alt="PowerShell" />
-    <br>PowerShell
-  </td>
-  <td align="center" width="96">
-    <img src="https://api.iconify.design/lucide:terminal.svg?color=%23ffffff" width="48" height="48" alt="CMD" />
-    <br>CMD
-  </td>
-  <td align="center" width="96">
-    <img src="https://api.iconify.design/simple-icons:openai.svg?color=%23ffffff" width="48" height="48" alt="ChatGPT" />
-    <br>ChatGPT
-  </td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=dart" width="55" height="55" alt="Dart" />
+<br><b>Dart</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++" />
+<br><b>C++</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP" />
+<br><b>PHP</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL" />
+<br><b>MySQL</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=powershell" width="55" height="55" alt="PowerShell" />
+<br><b>PowerShell</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://api.iconify.design/lucide:terminal.svg?color=%2358A6FF" width="55" height="55" alt="CMD" />
+<br><b>CMD</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://api.iconify.design/simple-icons:openai.svg?color=%2358A6FF" width="55" height="55" alt="ChatGPT" />
+<br><b>ChatGPT</b>
+</td>
+
 </tr>
+
 <tr>
-  <td align="center" width="96">
-    <img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238e75b2" width="48" height="48" alt="Gemini" />
-    <br>Gemini
-  </td>
-  <td align="center" width="96">
-    <img src="https://api.iconify.design/simple-icons:deepseek.svg?color=%234d6bfe" width="48" height="48" alt="DeepSeek" />
-    <br>DeepSeek
-  </td>
-  <td colspan="5"></td>
+
+<td align="center" width="110">
+<img src="https://api.iconify.design/simple-icons:googlegemini.svg?color=%238E75B2" width="55" height="55" alt="Gemini" />
+<br><b>Gemini</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://api.iconify.design/simple-icons:deepseek.svg?color=%234D6BFE" width="55" height="55" alt="DeepSeek" />
+<br><b>DeepSeek</b>
+</td>
+
 </tr>
 </table>
-</div>
 
 <br>
 
-> "Great software starts with curiosity and never stops improving."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" />
 
----
-
-## 📈 GitHub Statistics
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iemirakman/iemirakman/output/pacman-contribution-graph-dark.svg" width="100%">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/rhellokitty/rhellokitty/output/galaga-contribution-graph-dark.svg" alt="Galaga contribution graph" width="100%" />
-</picture>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=davidyehuda45-byte&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views" />
-  <br><br>
-  ⭐ Thanks for visiting my profile!
 </div>
