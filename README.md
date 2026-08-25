@@ -8,18 +8,22 @@
 
 ---
 
-### 🖥️ Programming Languages
+### Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp,dart" /><br>
 </p>
 
+### Frameworks and Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,laravel,flutter,git,github,postman,docker" /><br>
 </p>
 
+### IDEs and Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,powershell,terminal,vercel,cursor,scratch" /><br>
-</
+</p>
+
+### Specialized and AI Tools
 <p align="center">
   <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&logo=terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Jailbreak-000000?style=for-the-badge" />
@@ -35,12 +39,14 @@
 
 ---
 
-<!-- Statistik ini dijamin muncul karena menggunakan server Demolab yang sangat stabil -->
+### GitHub Analytics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=davidyehuda45-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
+
+### Animasi Kontribusi (Snake Game)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
