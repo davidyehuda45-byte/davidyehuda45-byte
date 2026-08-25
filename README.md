@@ -13,17 +13,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,cpp,dart" /><br>
 </p>
 
-### 🧩 Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,laravel,flutter,git,github,postman,docker" /><br>
 </p>
 
-### 🛠️ IDEs & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,powershell,terminal,vercel,cursor,scratch" /><br>
-</p>
-
-### 🤖 Specialized & AI Tools
+</
 <p align="center">
   <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&logo=terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Jailbreak-000000?style=for-the-badge" />
@@ -39,19 +35,12 @@
 
 ---
 
-### 📊 GitHub Analytics (Animasi Auto Update)
 <!-- Statistik ini dijamin muncul karena menggunakan server Demolab yang sangat stabil -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=davidyehuda45-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/card?username=davidyehuda45-byte&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
 ---
-
-### 🐍 Ular Pemakan Kontribusi (Animasi)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
