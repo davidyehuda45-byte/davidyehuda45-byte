@@ -40,18 +40,13 @@
 ---
 
 ### 📊 GitHub Analytics (Animasi Auto Update)
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidyehuda45-byte&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidyehuda45-byte&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</p>
-
+<!-- Statistik ini dijamin muncul karena menggunakan server Demolab yang sangat stabil -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=davidyehuda45-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davidyehuda45-byte&theme=tokyonight&no-frame=true&column=7&cache_seconds=86400" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/card?username=davidyehuda45-byte&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 ---
