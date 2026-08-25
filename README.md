@@ -25,7 +25,6 @@
 
 ### 🤖 Specialized & AI Tools
 <p align="center">
-  <!-- Badge di bawah ini dijamin muncul karena formatnya benar dan tidak memaksa logo yang tidak ada -->
   <img src="https://img.shields.io/badge/SQLmap-CC2927?style=for-the-badge&logo=terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Jailbreak-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge" />
@@ -36,15 +35,14 @@
   <img src="https://img.shields.io/badge/Freebuff-FF6C37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Kodular-0078D4?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <!-- RAPTOR DIHAPUS KARENA TIDAK ADA LOGONYA DI SHIELDS.IO, SUPAYA TIDAK RUSAK -->
 </p>
 
 ---
 
 ### 📊 GitHub Analytics (Animasi Auto Update)
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidyehuda45-byte&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidyehuda45-byte&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidyehuda45-byte&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidyehuda45-byte&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -53,7 +51,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davidyehuda45-byte&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=davidyehuda45-byte&theme=tokyonight&no-frame=true&column=7&cache_seconds=86400" alt="GitHub Trophies" />
 </p>
 
 ---
