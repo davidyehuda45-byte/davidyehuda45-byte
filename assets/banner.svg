@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="David Yehuda Surbakti - Full-Stack Developer">
+  <title>David Yehuda Surbakti — Terminal</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#04070E"/>
+      <stop offset="50%" stop-color="#0A1526"/>
+      <stop offset="100%" stop-color="#071B33"/>
+    </linearGradient>
+    <radialGradient id="glowTop" cx="50%" cy="0%" r="68%">
+      <stop offset="0%" stop-color="#2E7DFF" stop-opacity="0.30"/>
+      <stop offset="100%" stop-color="#2E7DFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBottom" cx="92%" cy="100%" r="58%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2E7DFF"/>
+      <stop offset="45%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#7C5CFF"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F2F8FF"/>
+      <stop offset="55%" stop-color="#7CC4FF"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22D3EE" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0 H0 V28" fill="none" stroke="#1B2A47" stroke-opacity="0.28" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <filter id="glow" x="-30%" y="-40%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="0" stdDeviation="7" flood-color="#2E7DFF" flood-opacity="0.45"/>
+    </filter>
+    <clipPath id="win">
+      <rect x="24" y="30" width="852" height="240" rx="14"/>
+    </clipPath>
+    <clipPath id="cPrompt">
+      <rect x="40" y="90" width="0" height="32">
+        <animate attributeName="width" from="0" to="240" dur="0.8s" begin="0.25s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cName">
+      <rect x="40" y="120" width="0" height="52">
+        <animate attributeName="width" from="0" to="500" dur="1s" begin="0.95s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cRole1">
+      <rect x="40" y="176" width="0" height="26">
+        <animate attributeName="width" from="0" to="345" dur="0.65s" begin="1.85s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cRole2">
+      <rect x="40" y="198" width="0" height="26">
+        <animate attributeName="width" from="0" to="360" dur="0.65s" begin="2.15s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="900" height="300" fill="url(#bg)"/>
+  <rect width="900" height="300" fill="url(#glowTop)"/>
+  <rect width="900" height="300" fill="url(#glowBottom)"/>
+  <rect width="900" height="300" fill="url(#grid)"/>
+
+  <!-- window shadow -->
+  <rect x="30" y="42" width="840" height="238" rx="16" fill="#0B2A55" opacity="0.55" filter="url(#blur)"/>
+
+  <!-- window body -->
+  <rect x="24" y="30" width="852" height="240" rx="14" fill="#070D18"/>
+  <rect x="24" y="30" width="852" height="240" rx="14" fill="url(#edge)" opacity="0.07"/>
+  <rect x="24.6" y="30.6" width="850.8" height="238.8" rx="13.4" fill="none" stroke="#1E3A5F" stroke-width="1.2"/>
+
+  <!-- scan sweep -->
+  <g clip-path="url(#win)">
+    <rect x="24" y="-46" width="852" height="46" fill="url(#scan)">
+      <animate attributeName="y" values="-46;270;-46" dur="9s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- title bar -->
+  <rect x="24" y="30" width="852" height="38" rx="14" fill="#0C1526"/>
+  <rect x="24" y="52" width="852" height="16" fill="#0C1526"/>
+  <line x1="24" y1="68" x2="876" y2="68" stroke="#1B2A47" stroke-width="1"/>
+  <rect x="24" y="67.2" width="852" height="1.8" fill="url(#edge)" opacity="0.85">
+    <animate attributeName="opacity" values="0.45;0.95;0.45" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="50" cy="49" r="5" fill="#FF5F57" opacity="0.92"/>
+  <circle cx="70" cy="49" r="5" fill="#FEBC2E" opacity="0.92"/>
+  <circle cx="90" cy="49" r="5" fill="#28C840" opacity="0.92"/>
+  <text x="450" y="53" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.6" fill="#546B8C">david@yehuda  &#8212;  ~/profile/README.md</text>
+
+  <!-- content -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+
+    <g clip-path="url(#cPrompt)">
+      <text x="52" y="112" font-size="15">
+        <tspan fill="#22D3EE">PS </tspan><tspan fill="#4DA3FF">C:\Users\David&gt; </tspan><tspan fill="#E6EDF7">whoami</tspan>
+      </text>
+    </g>
+
+    <g clip-path="url(#cName)">
+      <text x="52" y="160" font-size="34" font-weight="700" letter-spacing="0.5" fill="url(#name)" filter="url(#glow)">David Yehuda Surbakti</text>
+    </g>
+
+    <g clip-path="url(#cRole1)">
+      <text x="52" y="194" font-size="13.5" letter-spacing="0.4">
+        <tspan fill="#93A7C4">Full-Stack Developer</tspan><tspan fill="#2E7DFF">   &#183;   </tspan><tspan fill="#93A7C4">UI/UX Designer</tspan>
+      </text>
+    </g>
+
+    <g clip-path="url(#cRole2)">
+      <text x="52" y="216" font-size="13.5" letter-spacing="0.4">
+        <tspan fill="#93A7C4">AI-Assisted Developer</tspan><tspan fill="#2E7DFF">   &#183;   </tspan><tspan fill="#93A7C4">Prompt Engineer</tspan>
+      </text>
+    </g>
+
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.01s" begin="2.7s" fill="freeze"/>
+      <text x="52" y="252" font-size="14">
+        <tspan fill="#22D3EE">PS </tspan><tspan fill="#4DA3FF">C:\Users\David&gt; </tspan><tspan fill="#546B8C">./open --mind</tspan>
+      </text>
+    </g>
+    <rect x="326" y="239" width="10" height="17" fill="#22D3EE" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.03;0.5;0.53;1" dur="1.1s" begin="2.7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- right panel -->
+    <line x1="600" y1="94" x2="600" y2="258" stroke="#1B2A47" stroke-width="1"/>
+
+    <text x="632" y="112" font-size="9.5" letter-spacing="2.2" fill="#4A5F80">SYSTEM</text>
+
+    <text x="632" y="140" font-size="9.5" letter-spacing="1.6" fill="#546B8C">LOCATION</text>
+    <text x="632" y="162" font-size="13" fill="#C9D6EA">Indonesia</text>
+
+    <text x="632" y="192" font-size="9.5" letter-spacing="1.6" fill="#546B8C">SCHOOL</text>
+    <text x="632" y="214" font-size="13" fill="#C9D6EA">SMK Bagimu Negeriku</text>
+
+    <text x="632" y="244" font-size="9.5" letter-spacing="1.6" fill="#546B8C">STATUS</text>
+    <circle cx="639" cy="261" r="4" fill="#35D07F">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="652" y="265" font-size="13" fill="#35D07F">ONLINE</text>
+
+  </g>
+</svg>
