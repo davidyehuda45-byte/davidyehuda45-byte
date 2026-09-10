@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="150" viewBox="0 0 900 150" role="img" aria-label="footer">
+  <title>footer</title>
+  <defs>
+    <linearGradient id="fedark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4D9BFF"/><stop offset="50%" stop-color="#34E2C5"/><stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="150" rx="22" fill="#0E1729" fill-opacity="0.7" stroke="#1E2E4A"/>
+  <path id="wvdark" d="M0 96 C150 62 300 122 450 92 C600 62 750 120 900 88" fill="none" stroke="url(#fedark)" stroke-width="2.4" stroke-opacity="0.7"/>
+  <circle r="4.5" fill="#34E2C5">
+    <animateMotion dur="11s" repeatCount="indefinite" rotate="auto" path="M0 96 C150 62 300 122 450 92 C600 62 750 120 900 88"/>
+  </circle>
+  <text x="450" y="128" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="12.5" letter-spacing="1.6" fill="#5B6F8E">THANKS FOR SCROLLING  ·  LET'S BUILD SOMETHING TOGETHER</text>
+</svg>

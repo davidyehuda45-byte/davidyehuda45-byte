@@ -4,6 +4,8 @@ Generate GitHub profile README cards:
   1. generated/stats.svg       - David's GitHub Stats
   2. generated/top-langs.svg   - Most Used Languages
   3. generated/calendar.svg    - 12-Month Contribution Calendar Activity
+Each card is written twice (…​.svg = dark, …​-light.svg = light) so README.md can
+switch them with <picture> depending on the visitor's GitHub theme.
 
 Zero third-party runtime dependency, fully self-hosted via GitHub Actions & Python stdlib.
 """
@@ -15,6 +17,22 @@ import subprocess
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import date, datetime
+
+# Palettes for the two README variants (README.md swaps them with <picture> +
+# prefers-color-scheme). Kept in sync with scripts/render_theme.py.
+THEMES = {
+    "dark": {
+        "card": "#0E1729", "stroke": "#1E2E4A", "header": "#4D9BFF",
+        "text": "#C9D6EA", "dim": "#8FA3BF", "icon": "#34E2C5",
+        "grid": ["#141E31", "#16304F", "#1E4E86", "#2F7DD1", "#7FB3FF"],
+    },
+    "light": {
+        "card": "#FFFFFF", "stroke": "#DDE4F0", "header": "#1D6FE0",
+        "text": "#1A2233", "dim": "#5A6B85", "icon": "#0E9E86",
+        "grid": ["#EDF1F8", "#C9E1F6", "#93C4EF", "#4D9BFF", "#1D6FE0"],
+    },
+}
+T = THEMES["dark"]
 
 USERNAME = os.environ.get("GH_USER", "davidyehuda45-byte")
 TOKEN = os.environ.get("GITHUB_TOKEN", os.environ.get("GH_TOKEN", ""))
@@ -112,11 +130,11 @@ def render_stats_svg(user_data):
 
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" role="img" aria-label="{name}">
   <style>
-    .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #4DA3FF; }}
-    .stat-label {{ font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D6EA; }}
-    .stat-value {{ font: 700 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D6EA; }}
-    .icon {{ fill: #22D3EE; }}
-    .bg {{ fill: #0B1220; stroke: #1B2A47; stroke-width: 1px; rx: 14px; }}
+    .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: {T['header']}; }}
+    .stat-label {{ font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: {T['text']}; }}
+    .stat-value {{ font: 700 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: {T['text']}; }}
+    .icon {{ fill: {T['icon']}; }}
+    .bg {{ fill: {T['card']}; stroke: {T['stroke']}; stroke-width: 1px; rx: 14px; }}
   </style>
   <rect class="bg" x="0.5" y="0.5" width="494" height="194" />
   
@@ -140,7 +158,7 @@ def render_stats_svg(user_data):
       <svg class="icon" viewBox="0 0 16 16" width="16" height="16" x="0" y="-12">
         <path d="M10.5 7.75a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Zm1.43.75a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 1 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 1 1 0 1.5h-3.32Z"/>
       </svg>
-      <text class="stat-label" x="25" y="0">Total Commits (2026):</text>
+      <text class="stat-label" x="25" y="0">Total Commits (last year):</text>
       <text class="stat-value" x="200" y="0">{total_commits}</text>
     </g>
     
@@ -188,7 +206,7 @@ def render_top_langs_svg(user_data):
         langs = repo.get("languages", {}).get("edges", [])
         for edge in langs:
             lname = edge["node"]["name"]
-            lcolor = edge["node"].get("color") or "#8FA3BF"
+            lcolor = edge["node"].get("color") or T["dim"]
             lsize = edge["size"]
             lang_totals[lname] = lang_totals.get(lname, 0) + lsize
             lang_colors[lname] = lcolor
@@ -204,7 +222,7 @@ def render_top_langs_svg(user_data):
         w = (lsize / total_bytes) * bar_width
         if w < 1:
             w = 1
-        color = lang_colors.get(lname, "#8FA3BF")
+        color = lang_colors.get(lname, T["dim"])
         bar_svg.append(f'<rect x="{curr_x:.1f}" y="0" width="{w:.1f}" height="8" fill="{color}" />')
         curr_x += w
 
@@ -229,7 +247,7 @@ def render_top_langs_svg(user_data):
         x = col * col_width
         y = row * 26
         pct = (lsize / total_bytes) * 100
-        color = lang_colors.get(lname, "#8FA3BF")
+        color = lang_colors.get(lname, T["dim"])
         items_svg.append(f"""
         <g transform="translate({x}, {y})">
           <circle cx="5" cy="5" r="5" fill="{color}" />
@@ -240,10 +258,10 @@ def render_top_langs_svg(user_data):
 
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="380" height="195" viewBox="0 0 380 195" fill="none" role="img" aria-label="{name}">
   <style>
-    .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #4DA3FF; }}
-    .lang-name {{ font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D6EA; }}
-    .lang-pct {{ font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8FA3BF; }}
-    .bg {{ fill: #0B1220; stroke: #1B2A47; stroke-width: 1px; rx: 14px; }}
+    .header {{ font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: {T['header']}; }}
+    .lang-name {{ font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: {T['text']}; }}
+    .lang-pct {{ font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: {T['dim']}; }}
+    .bg {{ fill: {T['card']}; stroke: {T['stroke']}; stroke-width: 1px; rx: 14px; }}
   </style>
   <rect class="bg" x="0.5" y="0.5" width="379" height="194" />
   
@@ -272,7 +290,7 @@ def render_calendar_svg(user_data):
     LEFT = 36
     TOP = 46
     
-    LEVELS = ["#161F33", "#1C3A66", "#25519B", "#2E7DFF", "#7FB3FF"]
+    LEVELS = T["grid"]
     
     def get_tier(c):
         if c <= 0: return 0
@@ -315,12 +333,12 @@ def render_calendar_svg(user_data):
 
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" fill="none" role="img" aria-label="Contribution Activity">
   <style>
-    .title {{ font: 700 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #4DA3FF; letter-spacing: 0.5px; }}
-    .subtitle {{ font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8FA3BF; }}
-    .month-label {{ font: 500 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8FA3BF; }}
-    .day-label {{ font: 500 9px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8FA3BF; }}
-    .legend-text {{ font: 400 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8FA3BF; }}
-    .bg {{ fill: #0B1220; stroke: #1B2A47; stroke-width: 1px; rx: 14px; }}
+    .title {{ font: 700 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: {T['header']}; letter-spacing: 0.5px; }}
+    .subtitle {{ font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: {T['dim']}; }}
+    .month-label {{ font: 500 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: {T['dim']}; }}
+    .day-label {{ font: 500 9px 'Segoe UI', Ubuntu, Sans-Serif; fill: {T['dim']}; }}
+    .legend-text {{ font: 400 10px 'Segoe UI', Ubuntu, Sans-Serif; fill: {T['dim']}; }}
+    .bg {{ fill: {T['card']}; stroke: {T['stroke']}; stroke-width: 1px; rx: 14px; }}
   </style>
   <rect class="bg" x="0.5" y="0.5" width="{width - 1}" height="{height - 1}" />
   
@@ -362,30 +380,31 @@ def render_calendar_svg(user_data):
     return svg.strip()
 
 
+def render_all(user_data):
+    """(name -> svg) for the active palette, keyed on the file suffix."""
+    return {
+        "stats": render_stats_svg(user_data),
+        "top-langs": render_top_langs_svg(user_data),
+        "calendar": render_calendar_svg(user_data),
+    }
+
+
 def main():
     os.makedirs("generated", exist_ok=True)
     print("Fetching user data...")
     user_data = fetch_data()
     
-    print("Rendering generated/stats.svg...")
-    stats_svg = render_stats_svg(user_data)
-    with open("generated/stats.svg", "w", encoding="utf-8") as f:
-        f.write(stats_svg + "\n")
-        
-    print("Rendering generated/top-langs.svg...")
-    top_langs_svg = render_top_langs_svg(user_data)
-    with open("generated/top-langs.svg", "w", encoding="utf-8") as f:
-        f.write(top_langs_svg + "\n")
-        
-    print("Rendering generated/calendar.svg...")
-    calendar_svg = render_calendar_svg(user_data)
-    with open("generated/calendar.svg", "w", encoding="utf-8") as f:
-        f.write(calendar_svg + "\n")
-
-    print("Validating generated SVGs...")
-    for path in ["generated/stats.svg", "generated/top-langs.svg", "generated/calendar.svg"]:
-        ET.parse(path)
-        print(f"  ✓ {path} is valid XML")
+    global T
+    for theme_name, theme in THEMES.items():
+        T = theme
+        suffix = "" if theme_name == "dark" else "-light"
+        print(f"Rendering cards ({theme_name})...")
+        for base, svg in render_all(user_data).items():
+            path = f"generated/{base}{suffix}.svg"
+            with open(path, "w", encoding="utf-8") as f:
+                f.write(svg + "\n")
+            ET.parse(path)
+            print(f"  \u2713 {path} written + valid XML")
 
     print("All cards generated successfully!")
 

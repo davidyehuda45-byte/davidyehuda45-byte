@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="738" height="152" viewBox="0 0 738 152" role="img" aria-label="Tech stack">
+  <title>Tech stack</title>
+  <defs>
+    <linearGradient id="edge3dark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4D9BFF"/><stop offset="50%" stop-color="#34E2C5"/><stop offset="100%" stop-color="#A78BFA"/>
+    </linearGradient>
+    <linearGradient id="sheen3dark" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+    <g>
+      <rect x="22" y="22" width="104" height="108" rx="20" fill="#0E1729" fill-opacity="0.72"/>
+      <rect x="22" y="22" width="104" height="108" rx="20" fill="url(#sheen3dark)"/>
+      <rect x="22.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#1E2E4A" stroke-opacity="0.9"/>
+      <rect x="22" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge3dark)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.0s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(50 42)" ><path d="M24 4 V18 H17 A7 7 0 0 1 17 4 Z" fill="#F24E1E"><animateTransform attributeName="transform" type="translate" values="0 0;0 -3.5;0 1.5;0 0;0 0" keyTimes="0;0.16;0.32;0.48;1" dur="3.2s" begin="0.0s" repeatCount="indefinite"/></path><path d="M31 4 A7 7 0 1 1 31 18 A7 7 0 1 1 31 4 Z" fill="#FF7262"><animateTransform attributeName="transform" type="translate" values="0 0;0 -3.5;0 1.5;0 0;0 0" keyTimes="0;0.16;0.32;0.48;1" dur="3.2s" begin="0.14s" repeatCount="indefinite"/></path><path d="M24 18 V32 H17 A7 7 0 0 1 17 18 Z" fill="#A259FF"><animateTransform attributeName="transform" type="translate" values="0 0;0 -3.5;0 1.5;0 0;0 0" keyTimes="0;0.16;0.32;0.48;1" dur="3.2s" begin="0.28s" repeatCount="indefinite"/></path><path d="M31 18 A7 7 0 1 1 31 32 A7 7 0 1 1 31 18 Z" fill="#1ABCFE"><animateTransform attributeName="transform" type="translate" values="0 0;0 -3.5;0 1.5;0 0;0 0" keyTimes="0;0.16;0.32;0.48;1" dur="3.2s" begin="0.42s" repeatCount="indefinite"/></path><path d="M24 32 V46 H17 A7 7 0 0 1 10 39 V32 Z" fill="#0ACF83"><animateTransform attributeName="transform" type="translate" values="0 0;0 -3.5;0 1.5;0 0;0 0" keyTimes="0;0.16;0.32;0.48;1" dur="3.2s" begin="0.56s" repeatCount="indefinite"/></path></g>
+      <text x="74" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#8FA3BF">Figma</text>
+    </g>
+    <g>
+      <rect x="140" y="22" width="104" height="108" rx="20" fill="#0E1729" fill-opacity="0.72"/>
+      <rect x="140" y="22" width="104" height="108" rx="20" fill="url(#sheen3dark)"/>
+      <rect x="140.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#1E2E4A" stroke-opacity="0.9"/>
+      <rect x="140" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge3dark)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.3s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(168 42)" >
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="-8 0;0 0;0 0;-8 0"
+      keyTimes="0;0.18;0.85;1" dur="3.8s" calcMode="spline"
+      keySplines="0.2 0.9 0.2 1;0 0 1 1;0.6 0 1 1" repeatCount="indefinite"/>
+    <path d="M24 11 L41 40 H7 Z" fill="#FFFFFF"/>
+  </g></g>
+      <text x="192" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#8FA3BF">Vercel</text>
+    </g>
+    <g>
+      <rect x="258" y="22" width="104" height="108" rx="20" fill="#0E1729" fill-opacity="0.72"/>
+      <rect x="258" y="22" width="104" height="108" rx="20" fill="url(#sheen3dark)"/>
+      <rect x="258.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#1E2E4A" stroke-opacity="0.9"/>
+      <rect x="258" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge3dark)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.6s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(286 42)" >
+  <g transform="translate(24,24)">
+    <animateTransform attributeName="transform" type="scale" values="1 1;-1 1;1 1" keyTimes="0;0.5;1"
+      dur="4s" calcMode="spline" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" additive="sum" repeatCount="indefinite"/>
+    <rect x="-18" y="-18" width="36" height="36" rx="8" fill="#7952B6"/>
+    <text x="0" y="8" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" fill="#FFFFFF">B</text>
+  </g></g>
+      <text x="310" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#8FA3BF">Bootstrap</text>
+    </g>
+    <g>
+      <rect x="376" y="22" width="104" height="108" rx="20" fill="#0E1729" fill-opacity="0.72"/>
+      <rect x="376" y="22" width="104" height="108" rx="20" fill="url(#sheen3dark)"/>
+      <rect x="376.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#1E2E4A" stroke-opacity="0.9"/>
+      <rect x="376" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge3dark)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.9s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(404 42)" >
+  <defs>
+    <linearGradient id="alpg" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4EA8DE"/><stop offset="100%" stop-color="#8CC9E8"/>
+    </linearGradient>
+  </defs>
+  <path d="M24 7 L43 41 H5 Z" fill="url(#alpg)">
+    <animateTransform attributeName="transform" type="skewX" values="0;-7;0;7;0" dur="5s" repeatCount="indefinite"
+      additive="sum"/>
+  </path>
+  <path d="M24 19 L34 38 H14 Z" fill="#0E1729" opacity="0.85"/></g>
+      <text x="428" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#8FA3BF">Alpine.js</text>
+    </g>
+    <g>
+      <rect x="494" y="22" width="104" height="108" rx="20" fill="#0E1729" fill-opacity="0.72"/>
+      <rect x="494" y="22" width="104" height="108" rx="20" fill="url(#sheen3dark)"/>
+      <rect x="494.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#1E2E4A" stroke-opacity="0.9"/>
+      <rect x="494" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge3dark)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="5.2s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(522 42)" >
+  <circle cx="24" cy="24" r="17" fill="#FF6C37" opacity="0.16"/>
+  <circle cx="24" cy="24" r="17" fill="none" stroke="#FF6C37" stroke-width="2"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" values="0 24 24;360 24 24" dur="6s"
+      calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1" repeatCount="indefinite"/>
+    <path d="M16 30 L31 15 a5 5 0 0 1 7 7 L23 37 L14 38 Z" fill="#FF6C37"/>
+  </g></g>
+      <text x="546" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#8FA3BF">Postman</text>
+    </g>
+    <g>
+      <rect x="612" y="22" width="104" height="108" rx="20" fill="#0E1729" fill-opacity="0.72"/>
+      <rect x="612" y="22" width="104" height="108" rx="20" fill="url(#sheen3dark)"/>
+      <rect x="612.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#1E2E4A" stroke-opacity="0.9"/>
+      <rect x="612" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge3dark)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="5.5s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(640 42)" >
+  <path d="M33 6 L43 11 V37 L33 42 L17 27 L7 36 L5 34 V14 L7 12 L17 21 Z" fill="#2A8CD9"/>
+  <path d="M33 15 V33 L22 24 Z" fill="#0E1729" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.25;0.9" dur="2.6s" repeatCount="indefinite"/>
+  </path>
+  <path d="M7 12 L28 36" stroke="#FFFFFF" stroke-width="1.6" opacity="0.5"/></g>
+      <text x="664" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#8FA3BF">VS Code</text>
+    </g>
+</svg>

@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" fill="none" role="img" aria-label="David's GitHub Stats">
   <style>
-    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #4D9BFF; }
-    .stat-label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D6EA; }
-    .stat-value { font: 700 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D6EA; }
-    .icon { fill: #34E2C5; }
-    .bg { fill: #0E1729; stroke: #1E2E4A; stroke-width: 1px; rx: 14px; }
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #1D6FE0; }
+    .stat-label { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #1A2233; }
+    .stat-value { font: 700 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #1A2233; }
+    .icon { fill: #0E9E86; }
+    .bg { fill: #FFFFFF; stroke: #DDE4F0; stroke-width: 1px; rx: 14px; }
   </style>
   <rect class="bg" x="0.5" y="0.5" width="494" height="194" />
   
