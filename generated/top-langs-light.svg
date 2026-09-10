@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="195" viewBox="0 0 380 195" fill="none" role="img" aria-label="Most Used Languages">
   <style>
-    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #4D9BFF; }
-    .lang-name { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D6EA; }
-    .lang-pct { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8FA3BF; }
-    .bg { fill: #0E1729; stroke: #1E2E4A; stroke-width: 1px; rx: 14px; }
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #1D6FE0; }
+    .lang-name { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #1A2233; }
+    .lang-pct { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #5A6B85; }
+    .bg { fill: #FFFFFF; stroke: #DDE4F0; stroke-width: 1px; rx: 14px; }
   </style>
   <rect class="bg" x="0.5" y="0.5" width="379" height="194" />
   

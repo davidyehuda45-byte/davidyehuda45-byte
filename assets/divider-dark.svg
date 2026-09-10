@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="40" viewBox="0 0 900 40" role="img" aria-label="divider">
+  <title>divider</title>
+  <defs>
+    <linearGradient id="dgddark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1E2E4A" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#4D9BFF" stop-opacity="0.7"/>
+      <stop offset="65%" stop-color="#34E2C5" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#1E2E4A" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="19" width="900" height="1.6" fill="url(#dgddark)"/>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="120 0;780 0;120 0" dur="16s"
+      calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" keyTimes="0;0.5;1" repeatCount="indefinite"/>
+    <circle cx="0" cy="20" r="3" fill="#34E2C5"/>
+    <circle cx="0" cy="20" r="9" fill="none" stroke="#34E2C5" stroke-opacity="0.35"/>
+  </g>
+</svg>

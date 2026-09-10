@@ -1,125 +1,122 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="David Yehuda Surbakti — Full-Stack Developer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="David Yehuda Surbakti — Full-Stack Developer, UI/UX Designer, Semarang" />
+</picture>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-2E7DFF?style=for-the-badge&labelColor=0B1220" alt="Status" />
-<img src="https://img.shields.io/badge/LOCATION-Semarang%2C%20Indonesia-1F3A63?style=for-the-badge&labelColor=0B1220" alt="Location" />
-<img src="https://img.shields.io/badge/SCHOOL-SMK%20Bagimu%20Negeriku-1F3A63?style=for-the-badge&labelColor=0B1220" alt="School" />
-<img src="https://img.shields.io/badge/FOCUS-Full--Stack%20%C2%B7%20AI%20%C2%B7%20UI%2FUX-2E7DFF?style=for-the-badge&labelColor=0B1220" alt="Focus" />
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20Collaborate-4D9BFF?style=for-the-badge" alt="Status: open to collaborate" />
+<img src="https://img.shields.io/badge/LOCATION-Semarang%2C%20Indonesia-6B7A93?style=for-the-badge" alt="Location: Semarang, Indonesia" />
+<img src="https://img.shields.io/badge/SCHOOL-SMK%20Bagimu%20Negeriku-6B7A93?style=for-the-badge" alt="School: SMK Bagimu Negeriku" />
+<img src="https://img.shields.io/badge/FOCUS-Full--Stack%20%C2%B7%20AI%20%C2%B7%20UI%2FUX-0E9E86?style=for-the-badge" alt="Focus: full-stack, AI, UI/UX" />
 
 <br/><br/>
 
-<i>Turning ideas into clean, functional and beautiful software.</i>
+<i>Turning rough ideas into clean, functional and good-looking software —
+and understanding how every part of it works.</i>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=davidyehuda45-byte&style=flat-square&color=2E7DFF&labelColor=0B1220&label=PROFILE%20VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=davidyehuda45-byte&style=flat-square&color=4D9BFF&label=PROFILE%20VIEWS" alt="Profile views" />
 
 </div>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="" />
+</picture>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="divider" /></div>
-
-<div align="center">
-
-## `01` &#183; WHOAMI
+## About
 
 I'm **David Yehuda Surbakti** — a **Grade XI student** at **SMK Bagimu Negeriku**, majoring in
 **Software Engineering (Rekayasa Perangkat Lunak)**.
 
 I build things for the web: clean, responsive interfaces on the front — structured APIs, logic and
 databases behind them. I combine **code, design and AI-assisted workflows** to turn rough ideas into
-working, maintainable digital products, faster, without losing the understanding of *how* they work.
+working, maintainable products, faster, without losing the understanding of *how* they work.
+
+| Name | Age | Grade | Location |
+| :--- | :-: | :-: | :--- |
+| David Yehuda Surbakti | 15 | XI · RPL | Semarang, Indonesia |
 
 <br/>
 
-| `NAME` | `AGE` | `GRADE` | `LOCATION` |
-| :---: | :---: | :---: | :---: |
-| David Yehuda Surbakti | 15 | XI &#183; RPL | Indonesia |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="" />
+</picture>
 
-</div>
-
-<br/>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt="divider" /></div>
-
-<div align="center">
-
-## `02` &#183; WHAT I DO
-
-</div>
+## What I build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### `>_` Web Development
+#### Web Development
 
-Building modern and responsive websites with a focus on clean interfaces, structured code,
+Modern, responsive websites with clean interfaces, structured code and attention to detail on
 functionality and user experience.
 
 <br/>
 
-<img src="https://img.shields.io/badge/-HTML5-0E1628?style=flat-square&logo=html5&logoColor=E34F26" height="22" alt="HTML5" />
-<img src="https://img.shields.io/badge/-CSS3-0E1628?style=flat-square&logo=css3&logoColor=1572B6" height="22" alt="CSS3" />
-<img src="https://img.shields.io/badge/-JavaScript-0E1628?style=flat-square&logo=javascript&logoColor=F7DF1E" height="22" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-PHP-0E1628?style=flat-square&logo=php&logoColor=777BB4" height="22" alt="PHP" />
-<img src="https://img.shields.io/badge/-Laravel-0E1628?style=flat-square&logo=laravel&logoColor=FF2D20" height="22" alt="Laravel" />
-<img src="https://img.shields.io/badge/-React-0E1628?style=flat-square&logo=react&logoColor=61DAFB" height="22" alt="React" />
+<img src="https://img.shields.io/badge/-HTML5-0E1729?style=flat-square&logo=html5&logoColor=E34F26" height="22" alt="HTML5" />
+<img src="https://img.shields.io/badge/-CSS3-0E1729?style=flat-square&logo=css3&logoColor=1572B6" height="22" alt="CSS3" />
+<img src="https://img.shields.io/badge/-JavaScript-0E1729?style=flat-square&logo=javascript&logoColor=F7DF1E" height="22" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-PHP-0E1729?style=flat-square&logo=php&logoColor=777BB4" height="22" alt="PHP" />
+<img src="https://img.shields.io/badge/-Laravel-0E1729?style=flat-square&logo=laravel&logoColor=FF2D20" height="22" alt="Laravel" />
+<img src="https://img.shields.io/badge/-React-0E1729?style=flat-square&logo=react&logoColor=61DAFB" height="22" alt="React" />
 
 </td>
 <td width="50%" valign="top">
 
-#### `>_` Application Development
+#### Application Development
 
-Developing applications with modern frameworks — focused on usability, architecture and smooth
-API integration.
+Apps built on modern frameworks — focused on usability, architecture and clean API integration.
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Flutter-0E1628?style=flat-square&logo=flutter&logoColor=54C5F8" height="22" alt="Flutter" />
-<img src="https://img.shields.io/badge/-Dart-0E1628?style=flat-square&logo=dart&logoColor=54C5F8" height="22" alt="Dart" />
-<img src="https://img.shields.io/badge/-Kotlin-0E1628?style=flat-square&logo=kotlin&logoColor=7F52FF" height="22" alt="Kotlin" />
-<img src="https://img.shields.io/badge/-SQLite-0E1628?style=flat-square&logo=sqlite&logoColor=74A9DC" height="22" alt="SQLite" />
-<img src="https://img.shields.io/badge/-REST%20API-0E1628?style=flat-square" height="22" alt="REST API" />
-<img src="https://img.shields.io/badge/-Auth-0E1628?style=flat-square" height="22" alt="Authentication" />
+<img src="https://img.shields.io/badge/-Flutter-0E1729?style=flat-square&logo=flutter&logoColor=54C5F8" height="22" alt="Flutter" />
+<img src="https://img.shields.io/badge/-Dart-0E1729?style=flat-square&logo=dart&logoColor=54C5F8" height="22" alt="Dart" />
+<img src="https://img.shields.io/badge/-Kotlin-0E1729?style=flat-square&logo=kotlin&logoColor=7F52FF" height="22" alt="Kotlin" />
+<img src="https://img.shields.io/badge/-SQLite-0E1729?style=flat-square&logo=sqlite&logoColor=74A9DC" height="22" alt="SQLite" />
+<img src="https://img.shields.io/badge/-REST%20API-0E1729?style=flat-square" height="22" alt="REST API" />
+<img src="https://img.shields.io/badge/-Auth-0E1729?style=flat-square" height="22" alt="Authentication" />
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### `>_` UI/UX Design
+#### UI/UX Design
 
-Designing interfaces that focus on usability, visual hierarchy, consistency and modern aesthetics —
-from wireframe to interactive prototype.
+Interfaces built around usability, visual hierarchy and consistency — from wireframe to an
+interactive prototype.
 
 <br/>
 
-<img src="https://img.shields.io/badge/-Figma-0E1628?style=flat-square&logo=figma&logoColor=F24E1E" height="22" alt="Figma" />
-<img src="https://img.shields.io/badge/-Wireframing-0E1628?style=flat-square" height="22" alt="Wireframing" />
-<img src="https://img.shields.io/badge/-Prototyping-0E1628?style=flat-square" height="22" alt="Prototyping" />
-<img src="https://img.shields.io/badge/-Design%20System-0E1628?style=flat-square" height="22" alt="Design System" />
-<img src="https://img.shields.io/badge/-Responsive-0E1628?style=flat-square" height="22" alt="Responsive" />
+<img src="https://img.shields.io/badge/-Figma-0E1729?style=flat-square&logo=figma&logoColor=F24E1E" height="22" alt="Figma" />
+<img src="https://img.shields.io/badge/-Wireframing-0E1729?style=flat-square" height="22" alt="Wireframing" />
+<img src="https://img.shields.io/badge/-Prototyping-0E1729?style=flat-square" height="22" alt="Prototyping" />
+<img src="https://img.shields.io/badge/-Design%20System-0E1729?style=flat-square" height="22" alt="Design system" />
+<img src="https://img.shields.io/badge/-Responsive-0E1729?style=flat-square" height="22" alt="Responsive" />
 
 </td>
 <td width="50%" valign="top">
 
-#### `>_` AI-Assisted Development
+#### AI-Assisted Development
 
-Using AI as a development partner for research, coding, debugging, documentation and workflow
-optimization — not as a replacement for thinking.
+AI as a development partner for research, coding, debugging, docs and workflow — not as a
+replacement for thinking.
 
 <br/>
 
-<img src="https://img.shields.io/badge/-ChatGPT-0E1628?style=flat-square&logo=openai&logoColor=FFFFFF" height="22" alt="ChatGPT" />
-<img src="https://img.shields.io/badge/-Gemini-0E1628?style=flat-square&logo=googlegemini&logoColor=8E75B2" height="22" alt="Gemini" />
-<img src="https://img.shields.io/badge/-Prompt%20Engineering-0E1628?style=flat-square" height="22" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/-Debugging-0E1628?style=flat-square" height="22" alt="Debugging" />
-<img src="https://img.shields.io/badge/-Code%20Review-0E1628?style=flat-square" height="22" alt="Code Review" />
+<img src="https://img.shields.io/badge/-ChatGPT-0E1729?style=flat-square&logo=openai&logoColor=FFFFFF" height="22" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/-Gemini-0E1729?style=flat-square&logo=googlegemini&logoColor=8E75B2" height="22" alt="Gemini" />
+<img src="https://img.shields.io/badge/-Prompt%20Engineering-0E1729?style=flat-square" height="22" alt="Prompt engineering" />
+<img src="https://img.shields.io/badge/-Debugging-0E1729?style=flat-square" height="22" alt="Debugging" />
+<img src="https://img.shields.io/badge/-Code%20Review-0E1729?style=flat-square" height="22" alt="Code review" />
 
 </td>
 </tr>
@@ -127,60 +124,47 @@ optimization — not as a replacement for thinking.
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="divider" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="" />
+</picture>
+
+## Tech stack
 
 <div align="center">
 
-## `03` &#183; TECH STACK
+<!-- Animated logo rows: hand-drawn SVG + SMIL, self-hosted in this repo.
+     React spins, MySQL ripples, Docker rocks on a wave, Figma bounces, Laravel extends…
+     Regenerate: python3 scripts/render_theme.py -->
 
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-#### Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,cpp,dart,kotlin&theme=dark&perline=8" alt="Languages" />
-
-</td>
-<td align="center" width="50%">
-
-#### Frameworks &amp; Libraries
-
-<img src="https://skillicons.dev/icons?i=laravel,react,flutter,alpinejs,bootstrap,tailwind&theme=dark&perline=8" alt="Frameworks" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-#### Database &amp; Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,docker&theme=dark&perline=8" alt="Database and Tools" />
-
-</td>
-<td align="center" width="50%">
-
-#### IDE &amp; Deployment
-
-<img src="https://skillicons.dev/icons?i=vscode,powershell,terminal,figma,vercel&theme=dark&perline=8" alt="IDE and Deployment" />
-
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-1-dark.svg">
+  <img src="assets/stack-1-light.svg" alt="React, JavaScript, HTML5, CSS3, PHP, Laravel, Flutter" />
+</picture>
 
 <br/>
 
-#### AI Assistants &amp; Other Tools
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-2-dark.svg">
+  <img src="assets/stack-2-light.svg" alt="Dart, Kotlin, MySQL, SQLite, Git, Docker, Tailwind" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-3-dark.svg">
+  <img src="assets/stack-3-light.svg" alt="Figma, Vercel, Bootstrap, Alpine.js, Postman, VS Code" />
+</picture>
+
+<br/><br/>
+
+#### AI assistants & other tools
 
 <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-<img src="https://img.shields.io/badge/DeepSeek-2E7DFF?style=for-the-badge" alt="DeepSeek" />
+<img src="https://img.shields.io/badge/DeepSeek-4D9BFF?style=for-the-badge" alt="DeepSeek" />
 <img src="https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
-<img src="https://img.shields.io/badge/OpenCode-1F3A63?style=for-the-badge" alt="OpenCode" />
+<img src="https://img.shields.io/badge/OpenCode-6B7A93?style=for-the-badge" alt="OpenCode" />
 <img src="https://img.shields.io/badge/Kodular-0078D4?style=for-the-badge&logo=android&logoColor=white" alt="Kodular" />
 <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
@@ -189,90 +173,95 @@ optimization — not as a replacement for thinking.
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="divider" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="" />
+</picture>
+
+## GitHub activity
+
+<!-- generated/*.svg are rebuilt daily by the "Generate profile cards" workflow
+     (scripts/render_cards.py + the GitHub GraphQL API) — no third-party card service needed.
+     Workflow source: ops/generate-cards.yml, to be moved to .github/workflows/ to activate.
+     Both palettes are written so <picture> can match the visitor's GitHub theme. -->
 
 <div align="center">
 
-## `04` &#183; GITHUB ACTIVITY
-
-<!-- Cards generated in-repo via .github/workflows/generate-cards.yml
-     (generated/stats.svg, generated/top-langs.svg, generated/calendar.svg).
-     External services: streak-stats (demolab), trophies (orcin-eta mirror). -->
-
-<br/>
-
-<a href="https://github.com/davidyehuda45-byte"><img height="170" src="generated/stats.svg" alt="GitHub Stats" /></a>
-<img height="170" src="generated/top-langs.svg" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="generated/stats.svg">
+  <img src="generated/stats-light.svg" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="generated/top-langs.svg">
+  <img src="generated/top-langs-light.svg" alt="Most used languages" />
+</picture>
 
 <br/><br/>
 
-<img height="170" src="https://streak-stats.demolab.com/?user=davidyehuda45-byte&hide_border=true&border_radius=14&background=0B1220&border=1B2A47&stroke=1B2A47&ring=2E7DFF&fire=22D3EE&currStreakNum=22D3EE&currStreakLabel=2E7DFF&sideNums=C9D6EA&sideLabels=6B7F9E&dates=C9D6EA" alt="Streak Stats" />
-<img height="170" src="https://github-profile-trophy-orcin-eta.vercel.app/?username=davidyehuda45-byte&theme=onedark&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=davidyehuda45-byte&hide_border=true&border_radius=14&background=0E1729&border=1E2E4A&stroke=C9D6EA&ring=4D9BFF&fire=34E2C5&currStreakNum=34E2C5&currStreakLabel=4D9BFF&sideNums=C9D6EA&sideLabels=8FA3BF&dates=8FA3BF">
+  <img src="https://streak-stats.demolab.com/?user=davidyehuda45-byte&hide_border=true&border_radius=14&background=FFFFFF&border=DDE4F0&stroke=1A2233&ring=1D6FE0&fire=0E9E86&currStreakNum=0E9E86&currStreakLabel=1D6FE0&sideNums=1A2233&sideLabels=5A6B85&dates=5A6B85" alt="Streak stats" />
+</picture>
 
 <br/><br/>
 
-<img width="100%" src="generated/calendar.svg" alt="Contribution Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-orcin-eta.vercel.app/?username=davidyehuda45-byte&theme=onedark&no-frame=true&row=1&column=7&margin-w=15">
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=davidyehuda45-byte&theme=flat&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="generated/calendar.svg">
+  <img src="generated/calendar-light.svg" width="100%" alt="Contribution activity for the last year" />
+</picture>
 
 </div>
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="divider" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="" />
+</picture>
 
-<div align="center">
+## Philosophy
 
-## `05` &#183; PHILOSOPHY
+### "Build it. Break it. Understand it. Improve it."
 
-### `"Build it. Break it. Understand it. Improve it."`
+Good software isn't only about making something work. A product grows through a sequence:
 
-Good software is not only about making something work.
-A good product grows through a sequence:
-
-<br/>
-
-<img src="https://img.shields.io/badge/Functional-2E7DFF?style=for-the-badge&labelColor=0B1220" alt="Functional" />
-<img src="https://img.shields.io/badge/-%E2%86%92-0B1220?style=for-the-badge" alt="arrow" />
-<img src="https://img.shields.io/badge/Maintainable-2E7DFF?style=for-the-badge&labelColor=0B1220" alt="Maintainable" />
-<img src="https://img.shields.io/badge/-%E2%86%92-0B1220?style=for-the-badge" alt="arrow" />
-<img src="https://img.shields.io/badge/Scalable-2E7DFF?style=for-the-badge&labelColor=0B1220" alt="Scalable" />
-<img src="https://img.shields.io/badge/-%E2%86%92-0B1220?style=for-the-badge" alt="arrow" />
-<img src="https://img.shields.io/badge/Usable-2E7DFF?style=for-the-badge&labelColor=0B1220" alt="Usable" />
-<img src="https://img.shields.io/badge/-%E2%86%92-0B1220?style=for-the-badge" alt="arrow" />
-<img src="https://img.shields.io/badge/Beautiful-22D3EE?style=for-the-badge&labelColor=0B1220" alt="Beautiful" />
-
-<br/><br/>
+**Functional → Maintainable → Scalable → Usable → Beautiful**
 
 I believe development is a continuous loop of **learning, experimenting, solving problems and
 refining the result** — one iteration at a time.
 
-</div>
-
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="divider" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="" />
+</picture>
 
-<div align="center">
-
-## `06` &#183; WORKFLOW
-
-</div>
+## How I work
 
 <table>
 <tr>
-<th width="16%" align="center"><code>01</code></th>
-<th width="16%" align="center"><code>02</code></th>
-<th width="16%" align="center"><code>03</code></th>
-<th width="16%" align="center"><code>04</code></th>
-<th width="16%" align="center"><code>05</code></th>
-<th width="16%" align="center"><code>06</code></th>
+<th width="16%">01</th>
+<th width="16%">02</th>
+<th width="16%">03</th>
+<th width="16%">04</th>
+<th width="16%">05</th>
+<th width="16%">06</th>
 </tr>
 <tr>
-<td align="center"><b>PLAN</b></td>
-<td align="center"><b>ASSIST</b></td>
-<td align="center"><b>BUILD</b></td>
-<td align="center"><b>TEST</b></td>
-<td align="center"><b>DEBUG</b></td>
-<td align="center"><b>SHIP</b></td>
+<td align="center"><b>Plan</b></td>
+<td align="center"><b>Assist</b></td>
+<td align="center"><b>Build</b></td>
+<td align="center"><b>Test</b></td>
+<td align="center"><b>Debug</b></td>
+<td align="center"><b>Ship</b></td>
 </tr>
 <tr>
 <td align="center">Define goals, flow &amp; structure</td>
@@ -284,52 +273,50 @@ refining the result** — one iteration at a time.
 </tr>
 </table>
 
-<br/>
-
 My workflow mixes traditional programming practice with **modern AI-assisted tooling** — to move
 faster while keeping the output structured, readable and easy to maintain.
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="100%" alt="divider" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="" />
+</picture>
+
+## Currently focusing
+
+<img src="https://img.shields.io/badge/Full--Stack%20Web%20Development-4D9BFF?style=flat-square" alt="Full-stack web development" />
+<img src="https://img.shields.io/badge/Application%20Development-4D9BFF?style=flat-square" alt="Application development" />
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-4D9BFF?style=flat-square" alt="UI/UX design" />
+<img src="https://img.shields.io/badge/AI--Assisted%20Programming-0E9E86?style=flat-square" alt="AI-assisted programming" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0E9E86?style=flat-square" alt="Prompt engineering" />
+<img src="https://img.shields.io/badge/Interactive%20Web%20Apps-0E9E86?style=flat-square" alt="Interactive web apps" />
+<img src="https://img.shields.io/badge/Modern%20Dev%20Workflow-0E9E86?style=flat-square" alt="Modern dev workflow" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <img src="assets/divider-light.svg" width="100%" alt="" />
+</picture>
+
+## Let's connect
 
 <div align="center">
 
-## `07` &#183; CURRENT FOCUS
-
-<img src="https://img.shields.io/badge/Full--Stack%20Web%20Development-2E7DFF?style=flat-square&labelColor=0B1220" alt="Full-Stack Web" />
-<img src="https://img.shields.io/badge/Application%20Development-2E7DFF?style=flat-square&labelColor=0B1220" alt="Application Development" />
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-2E7DFF?style=flat-square&labelColor=0B1220" alt="UI/UX Design" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI--Assisted%20Programming-22D3EE?style=flat-square&labelColor=0B1220" alt="AI-Assisted Programming" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-22D3EE?style=flat-square&labelColor=0B1220" alt="Prompt Engineering" />
-<img src="https://img.shields.io/badge/Interactive%20Web%20Apps-22D3EE?style=flat-square&labelColor=0B1220" alt="Interactive Web Apps" />
-<img src="https://img.shields.io/badge/Modern%20Dev%20Workflow-22D3EE?style=flat-square&labelColor=0B1220" alt="Modern Dev Workflow" />
-
-</div>
-
-<br/>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt="divider" /></div>
-
-<div align="center">
-
-## `08` &#183; LET'S CONNECT
-
-<br/>
-
-<a href="https://github.com/davidyehuda45-byte"><img src="https://img.shields.io/badge/GitHub-davidyehuda45--byte-2E7DFF?style=for-the-badge&labelColor=0B1220&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:david.yehuda45@smk.belajar.id"><img src="https://img.shields.io/badge/Email-david.yehuda45%40smk.belajar.id-2E7DFF?style=for-the-badge&labelColor=0B1220&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://instagram.com/d4.pittt_"><img src="https://img.shields.io/badge/Instagram-@d4.pittt__-2E7DFF?style=for-the-badge&labelColor=0B1220&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://github.com/davidyehuda45-byte"><img src="https://img.shields.io/badge/GitHub-davidyehuda45--byte-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:david.yehuda45@smk.belajar.id"><img src="https://img.shields.io/badge/Email-david.yehuda45%40smk.belajar.id-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://instagram.com/d4.pittt_"><img src="https://img.shields.io/badge/Instagram-@d4.pittt__-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br/><br/>
 
 <i>Open for collaboration, learning and interesting ideas.</i>
 
+<br/><br/>
+
 </div>
 
-<br/>
-
-<div align="center"><img src="assets/footer.svg" width="100%" alt="footer" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+  <img src="assets/footer-light.svg" width="100%" alt="Thanks for scrolling — let's build something together" />
+</picture>

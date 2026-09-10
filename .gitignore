@@ -1,0 +1,5 @@
+# local dev harness only (regenerate: python3 scripts/render_theme.py && python3 preview/make_preview.py)
+preview/
+
+__pycache__/
+*.pyc

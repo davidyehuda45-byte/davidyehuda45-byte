@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="856" height="152" viewBox="0 0 856 152" role="img" aria-label="Tech stack">
+  <title>Tech stack</title>
+  <defs>
+    <linearGradient id="edge1light" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1D6FE0"/><stop offset="50%" stop-color="#0E9E86"/><stop offset="100%" stop-color="#7C4DDB"/>
+    </linearGradient>
+    <linearGradient id="sheen1light" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#1D6FE0" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#0E9E86" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+    <g>
+      <rect x="22" y="22" width="104" height="108" rx="20" fill="#FFFFFF" fill-opacity="0.72"/>
+      <rect x="22" y="22" width="104" height="108" rx="20" fill="url(#sheen1light)"/>
+      <rect x="22.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#DDE4F0" stroke-opacity="0.9"/>
+      <rect x="22" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge1light)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.0s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(50 42)" >
+  <g>
+    <animateTransform attributeName="transform" values="0 24 24;360 24 24" dur="7s" additive="sum" repeatCount="indefinite"/>
+    <ellipse cx="24" cy="24" rx="20" ry="7.6" fill="none" stroke="#61DAFB" stroke-width="2.6"/>
+    <ellipse cx="24" cy="24" rx="20" ry="7.6" fill="none" stroke="#61DAFB" stroke-width="2.6" transform="rotate(60 24 24)"/>
+    <ellipse cx="24" cy="24" rx="20" ry="7.6" fill="none" stroke="#61DAFB" stroke-width="2.6" transform="rotate(120 24 24)"/>
+    <circle cx="24" cy="24" r="3.4" fill="#61DAFB">
+      <animate attributeName="r" values="3.4;4.4;3.4" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+  </g></g>
+      <text x="74" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#5A6B85">React</text>
+    </g>
+    <g>
+      <rect x="140" y="22" width="104" height="108" rx="20" fill="#FFFFFF" fill-opacity="0.72"/>
+      <rect x="140" y="22" width="104" height="108" rx="20" fill="url(#sheen1light)"/>
+      <rect x="140.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#DDE4F0" stroke-opacity="0.9"/>
+      <rect x="140" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge1light)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.3s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(168 42)" >
+  <g>
+    <animateTransform attributeName="transform" values="-6 24 24;6 24 24;-6 24 24" dur="4.2s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" additive="sum" repeatCount="indefinite"/>
+    <rect x="6" y="6" width="36" height="36" rx="6" fill="#F7DF1E"/>
+    <text x="36" y="37" text-anchor="end" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="17" font-weight="800" font-style="italic" fill="#1B1B1B">JS</text>
+  </g>
+  <g clip-path="url(#jsclip)" opacity="0.75">
+    <rect x="-14" y="0" width="10" height="48" fill="#FFFFFF" opacity="0.6" transform="skewX(-18)">
+      <animate attributeName="x" values="-16;54" dur="3.4s" begin="0.6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <defs><clipPath id="jsclip"><rect x="6" y="6" width="36" height="36" rx="6"/></clipPath></defs></g>
+      <text x="192" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#5A6B85">JavaScript</text>
+    </g>
+    <g>
+      <rect x="258" y="22" width="104" height="108" rx="20" fill="#FFFFFF" fill-opacity="0.72"/>
+      <rect x="258" y="22" width="104" height="108" rx="20" fill="url(#sheen1light)"/>
+      <rect x="258.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#DDE4F0" stroke-opacity="0.9"/>
+      <rect x="258" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge1light)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.6s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(286 42)" >
+  <g>
+    <animateTransform attributeName="transform" values="-5 24 24;5 24 24;-5 24 24" dur="4.6s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" additive="sum" repeatCount="indefinite"/>
+    <path d="M7 5 H41 L38 41 L24 45 L10 41 Z" fill="#E34F26"/>
+    <path d="M24 8.6 H37.4 L35 38.6 L24 41.9 Z" fill="#E34F26" opacity="0.55"/>
+    <text x="24" y="33" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">5</text>
+  </g></g>
+      <text x="310" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#5A6B85">HTML5</text>
+    </g>
+    <g>
+      <rect x="376" y="22" width="104" height="108" rx="20" fill="#FFFFFF" fill-opacity="0.72"/>
+      <rect x="376" y="22" width="104" height="108" rx="20" fill="url(#sheen1light)"/>
+      <rect x="376.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#DDE4F0" stroke-opacity="0.9"/>
+      <rect x="376" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge1light)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="4.9s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(404 42)" >
+  <g>
+    <animateTransform attributeName="transform" values="5 24 24;-5 24 24;5 24 24" dur="4.6s" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1" additive="sum" repeatCount="indefinite"/>
+    <path d="M7 5 H41 L38 41 L24 45 L10 41 Z" fill="#1572B6"/>
+    <path d="M24 8.6 H37.4 L35 38.6 L24 41.9 Z" fill="#1572B6" opacity="0.55"/>
+    <text x="24" y="33" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="17" font-weight="800" fill="#FFFFFF">3</text>
+  </g></g>
+      <text x="428" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#5A6B85">CSS3</text>
+    </g>
+    <g>
+      <rect x="494" y="22" width="104" height="108" rx="20" fill="#FFFFFF" fill-opacity="0.72"/>
+      <rect x="494" y="22" width="104" height="108" rx="20" fill="url(#sheen1light)"/>
+      <rect x="494.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#DDE4F0" stroke-opacity="0.9"/>
+      <rect x="494" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge1light)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="5.2s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(522 42)" >
+  <ellipse cx="24" cy="24" rx="22" ry="11.5" fill="#777BB4"/>
+  <ellipse cx="24" cy="24" rx="22" ry="11.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.35"/>
+  <g><text x="11.5" y="29" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14" font-weight="800" font-style="italic" fill="#FFFFFF" opacity="0.25"><animate attributeName="opacity" values="0.25;1;1;0.25;0.25" keyTimes="0;0.12;0.55;0.7;1" dur="2.8s" begin="0.00s" repeatCount="indefinite"/>p</text><text x="21.5" y="29" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14" font-weight="800" font-style="italic" fill="#FFFFFF" opacity="0.25"><animate attributeName="opacity" values="0.25;1;1;0.25;0.25" keyTimes="0;0.12;0.55;0.7;1" dur="2.8s" begin="0.28s" repeatCount="indefinite"/>h</text><text x="31.5" y="29" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="14" font-weight="800" font-style="italic" fill="#FFFFFF" opacity="0.25"><animate attributeName="opacity" values="0.25;1;1;0.25;0.25" keyTimes="0;0.12;0.55;0.7;1" dur="2.8s" begin="0.56s" repeatCount="indefinite"/>p</text></g></g>
+      <text x="546" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#5A6B85">PHP</text>
+    </g>
+    <g>
+      <rect x="612" y="22" width="104" height="108" rx="20" fill="#FFFFFF" fill-opacity="0.72"/>
+      <rect x="612" y="22" width="104" height="108" rx="20" fill="url(#sheen1light)"/>
+      <rect x="612.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#DDE4F0" stroke-opacity="0.9"/>
+      <rect x="612" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge1light)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="5.5s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(640 42)" ><rect x="8" y="8" width="5" height="32" rx="2.5" fill="#FF2D20"/><rect x="15" y="8" width="14" height="5" rx="2.5" fill="#FF2D20"><animate attributeName="width" values="0;14;14;0" keyTimes="0;0.28;0.78;1" dur="3.4s" begin="0.00s" repeatCount="indefinite"/></rect><rect x="15" y="19" width="21" height="5" rx="2.5" fill="#FF2D20"><animate attributeName="width" values="0;21;21;0" keyTimes="0;0.28;0.78;1" dur="3.4s" begin="0.28s" repeatCount="indefinite"/></rect><rect x="15" y="30" width="28" height="5" rx="2.5" fill="#FF2D20"><animate attributeName="width" values="0;28;28;0" keyTimes="0;0.28;0.78;1" dur="3.4s" begin="0.56s" repeatCount="indefinite"/></rect></g>
+      <text x="664" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#5A6B85">Laravel</text>
+    </g>
+    <g>
+      <rect x="730" y="22" width="104" height="108" rx="20" fill="#FFFFFF" fill-opacity="0.72"/>
+      <rect x="730" y="22" width="104" height="108" rx="20" fill="url(#sheen1light)"/>
+      <rect x="730.6" y="22.6" width="102.8" height="106.8" rx="19.4" fill="none" stroke="#DDE4F0" stroke-opacity="0.9"/>
+      <rect x="730" y="22" width="104" height="1.4" rx="0.7" fill="url(#edge1light)" opacity="0.75">
+        <animate attributeName="opacity" values="0.25;0.9;0.25" dur="5.8s" repeatCount="indefinite"/>
+      </rect>
+      <g transform="translate(758 42)" ><path d="M24 3 L45 24 L34 35 L13 14 Z" fill="#47C5FB" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.82;1" dur="3.6s" begin="0.0s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="-5 5;0 0;0 0;-5 5" keyTimes="0;0.12;0.82;1" dur="3.6s" begin="0.0s" repeatCount="indefinite"/></path><path d="M13 14 L34 35 L24 45 L3 24 Z" fill="#54C5F8" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.82;1" dur="3.6s" begin="0.34s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="-5 5;0 0;0 0;-5 5" keyTimes="0;0.12;0.82;1" dur="3.6s" begin="0.34s" repeatCount="indefinite"/></path><path d="M24 24 L24 45 L13.5 34.5 Z" fill="#0553B1" opacity="0"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.82;1" dur="3.6s" begin="0.68s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="-5 5;0 0;0 0;-5 5" keyTimes="0;0.12;0.82;1" dur="3.6s" begin="0.68s" repeatCount="indefinite"/></path></g>
+      <text x="782" y="114" text-anchor="middle" font-family="Inter, 'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', sans-serif" font-size="11.5" font-weight="600" fill="#5A6B85">Flutter</text>
+    </g>
+</svg>
