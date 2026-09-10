@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="195" viewBox="0 0 380 195" fill="none" role="img" aria-label="Most Used Languages">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #4DA3FF; }
+    .lang-name { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D6EA; }
+    .lang-pct { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8FA3BF; }
+    .bg { fill: #0B1220; stroke: #1B2A47; stroke-width: 1px; rx: 14px; }
+  </style>
+  <rect class="bg" x="0.5" y="0.5" width="379" height="194" />
+  
+  <g transform="translate(25, 32)">
+    <text class="header" x="0" y="0">Most Used Languages</text>
+  </g>
+  
+  
+    <g transform="translate(25, 52)">
+      <mask id="bar-mask">
+        <rect x="0" y="0" width="330" height="8" rx="4" fill="white" />
+      </mask>
+      <g mask="url(#bar-mask)">
+        <rect x="0.0" y="0" width="175.9" height="8" fill="#3178c6" /><rect x="175.9" y="0" width="50.8" height="8" fill="#f1e05a" /><rect x="226.7" y="0" width="33.2" height="8" fill="#4F5D95" /><rect x="259.9" y="0" width="23.8" height="8" fill="#00B4AB" /><rect x="283.7" y="0" width="12.4" height="8" fill="#663399" /><rect x="296.2" y="0" width="8.7" height="8" fill="#f7523f" />
+      </g>
+    </g>
+    
+  
+  <g transform="translate(25, 78)">
+    
+        <g transform="translate(0, 0)">
+          <circle cx="5" cy="5" r="5" fill="#3178c6" />
+          <text class="lang-name" x="16" y="9">TypeScript</text>
+          <text class="lang-pct" x="145" y="9" text-anchor="end">53.3%</text>
+        </g>
+        
+        <g transform="translate(165, 0)">
+          <circle cx="5" cy="5" r="5" fill="#f1e05a" />
+          <text class="lang-name" x="16" y="9">JavaScript</text>
+          <text class="lang-pct" x="145" y="9" text-anchor="end">15.4%</text>
+        </g>
+        
+        <g transform="translate(0, 26)">
+          <circle cx="5" cy="5" r="5" fill="#4F5D95" />
+          <text class="lang-name" x="16" y="9">PHP</text>
+          <text class="lang-pct" x="145" y="9" text-anchor="end">10.1%</text>
+        </g>
+        
+        <g transform="translate(165, 26)">
+          <circle cx="5" cy="5" r="5" fill="#00B4AB" />
+          <text class="lang-name" x="16" y="9">Dart</text>
+          <text class="lang-pct" x="145" y="9" text-anchor="end">7.2%</text>
+        </g>
+        
+        <g transform="translate(0, 52)">
+          <circle cx="5" cy="5" r="5" fill="#663399" />
+          <text class="lang-name" x="16" y="9">CSS</text>
+          <text class="lang-pct" x="145" y="9" text-anchor="end">3.8%</text>
+        </g>
+        
+        <g transform="translate(165, 52)">
+          <circle cx="5" cy="5" r="5" fill="#f7523f" />
+          <text class="lang-name" x="16" y="9">Blade</text>
+          <text class="lang-pct" x="145" y="9" text-anchor="end">2.6%</text>
+        </g>
+        
+  </g>
+</svg>

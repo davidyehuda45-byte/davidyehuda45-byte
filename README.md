@@ -195,16 +195,14 @@ optimization — not as a replacement for thinking.
 
 ## `04` &#183; GITHUB ACTIVITY
 
-<!-- NOTE: github-readme-stats.vercel.app, github-profile-trophy.vercel.app and
-     github-readme-activity-graph.vercel.app (official instances) are paused/dead.
-     Mirrors in use: stats+langs = github-stats-extended.vercel.app,
-     trophy = github-profile-trophy-orcin-eta.vercel.app (see official trophy README
-     for more mirrors), contribution calendar = ghchart.rshah.org. -->
+<!-- Cards generated in-repo via .github/workflows/generate-cards.yml
+     (generated/stats.svg, generated/top-langs.svg, generated/calendar.svg).
+     External services: streak-stats (demolab), trophies (orcin-eta mirror). -->
 
 <br/>
 
-<a href="https://github.com/davidyehuda45-byte"><img height="170" src="https://github-readme-stats.vercel.app/api?username=davidyehuda45-byte&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&border_radius=14&bg_color=0B1220&title_color=4DA3FF&text_color=C9D6EA&icon_color=22D3EE&custom_title=David%27s%20GitHub%20Stats" alt="GitHub Stats" /></a>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidyehuda45-byte&layout=compact&hide_border=true&border_radius=14&bg_color=0B1220&title_color=4DA3FF&text_color=C9D6EA&custom_title=Most%20Used%20Languages" alt="Top Languages" />
+<a href="https://github.com/davidyehuda45-byte"><img height="170" src="generated/stats.svg" alt="GitHub Stats" /></a>
+<img height="170" src="generated/top-langs.svg" alt="Top Languages" />
 
 <br/><br/>
 
@@ -213,7 +211,7 @@ optimization — not as a replacement for thinking.
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=davidyehuda45-byte&hide_border=true&border_radius=14&bg_color=0B1220&color=8FA3BF&line=2E7DFF&point=22D3EE&area=true&area_color=0E1A2E&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+<img width="100%" src="generated/calendar.svg" alt="Contribution Graph" />
 
 </div>
 
