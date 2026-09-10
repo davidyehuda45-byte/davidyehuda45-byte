@@ -195,6 +195,12 @@ optimization — not as a replacement for thinking.
 
 ## `04` &#183; GITHUB ACTIVITY
 
+<!-- NOTE: github-readme-stats.vercel.app, github-profile-trophy.vercel.app and
+     github-readme-activity-graph.vercel.app (official instances) are paused/dead.
+     Mirrors in use: stats+langs = github-stats-extended.vercel.app,
+     trophy = github-profile-trophy-orcin-eta.vercel.app (see official trophy README
+     for more mirrors), contribution calendar = ghchart.rshah.org. -->
+
 <br/>
 
 <a href="https://github.com/davidyehuda45-byte"><img height="170" src="https://github-readme-stats.vercel.app/api?username=davidyehuda45-byte&show_icons=true&hide_border=true&hide_rank=true&include_all_commits=true&border_radius=14&bg_color=0B1220&title_color=4DA3FF&text_color=C9D6EA&icon_color=22D3EE&custom_title=David%27s%20GitHub%20Stats" alt="GitHub Stats" /></a>
@@ -203,7 +209,7 @@ optimization — not as a replacement for thinking.
 <br/><br/>
 
 <img height="170" src="https://streak-stats.demolab.com/?user=davidyehuda45-byte&hide_border=true&border_radius=14&background=0B1220&border=1B2A47&stroke=1B2A47&ring=2E7DFF&fire=22D3EE&currStreakNum=22D3EE&currStreakLabel=2E7DFF&sideNums=C9D6EA&sideLabels=6B7F9E&dates=C9D6EA" alt="Streak Stats" />
-<img height="170" src="https://github-profile-trophy.vercel.app/?username=davidyehuda45-byte&theme=onedark&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+<img height="170" src="https://github-profile-trophy-orcin-eta.vercel.app/?username=davidyehuda45-byte&theme=onedark&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
 
 <br/><br/>
 
