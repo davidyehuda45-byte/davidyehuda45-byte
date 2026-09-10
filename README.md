@@ -180,9 +180,10 @@ replacement for thinking.
 
 ## GitHub activity
 
-<!-- generated/*.svg are rendered in-repo by .github/workflows/generate-cards.yml
-     (daily) using scripts/render_cards.py + the GitHub GraphQL API — no third-party
-     card service needed. Both palettes exist so <picture> can match the visitor's theme. -->
+<!-- generated/*.svg are rebuilt daily by the "Generate profile cards" workflow
+     (scripts/render_cards.py + the GitHub GraphQL API) — no third-party card service needed.
+     Workflow source: ops/generate-cards.yml, to be moved to .github/workflows/ to activate.
+     Both palettes are written so <picture> can match the visitor's GitHub theme. -->
 
 <div align="center">
 
